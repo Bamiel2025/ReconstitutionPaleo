@@ -1,0 +1,328 @@
+{
+  "id": "ev_81b951f0d1d040e8cb58f31bfe48b9c115185806b0501262a40eaab4bfaeebe5",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:8765/index.html"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": true,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": false,
+    "widths": [
+      1440,
+      900,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 13,
+      "images": 0,
+      "links": 12,
+      "outline": 33
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 2,
+          "value": "#000000"
+        },
+        {
+          "count": 2,
+          "value": "#ffffff"
+        },
+        {
+          "count": 2,
+          "value": "#202020"
+        },
+        {
+          "count": 1,
+          "value": "#141414cc"
+        },
+        {
+          "count": 1,
+          "value": "#333333"
+        },
+        {
+          "count": 1,
+          "value": "#febf4e"
+        },
+        {
+          "count": 1,
+          "value": "#fecc5c"
+        },
+        {
+          "count": 1,
+          "value": "#fed96a"
+        },
+        {
+          "count": 1,
+          "value": "#7fa056"
+        },
+        {
+          "count": 1,
+          "value": "#009270"
+        },
+        {
+          "count": 1,
+          "value": "#b3e1b6"
+        },
+        {
+          "count": 1,
+          "value": "#cb8c37"
+        },
+        {
+          "count": 1,
+          "value": "#67a599"
+        },
+        {
+          "count": 1,
+          "value": "#f04028"
+        },
+        {
+          "count": 1,
+          "value": "#812b92"
+        },
+        {
+          "count": 1,
+          "value": "#34b2c9"
+        }
+      ],
+      "css_variables": {
+        "--bord": "#555",
+        "--fond": "#000",
+        "--gris": "#aaa",
+        "--gris-clair": "#eee",
+        "--jaune": "#f1ee1d",
+        "--panneau": "rgba(20,20,20,.86)",
+        "--police": "\"proxima-nova\",Helvetica,Arial,\"Liberation Sans\",sans-serif",
+        "--texte": "#fff"
+      },
+      "font_faces": [],
+      "font_sizes": [
+        {
+          "count": 14,
+          "value": "10px"
+        },
+        {
+          "count": 8,
+          "value": "11px"
+        },
+        {
+          "count": 7,
+          "value": "12px"
+        },
+        {
+          "count": 3,
+          "value": "14px"
+        },
+        {
+          "count": 2,
+          "value": "28px"
+        },
+        {
+          "count": 1,
+          "value": "13px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 30,
+          "value": "400"
+        },
+        {
+          "count": 5,
+          "value": "700"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 33,
+          "value": "proxima-nova, Helvetica, Arial, \"Liberation Sans\", sans-serif"
+        },
+        {
+          "count": 2,
+          "value": "Helvetica, Arial, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "230px"
+        },
+        {
+          "count": 1,
+          "value": "310px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 4,
+          "value": "4px"
+        },
+        {
+          "count": 2,
+          "value": "2px"
+        },
+        {
+          "count": 2,
+          "value": "5px"
+        },
+        {
+          "count": 1,
+          "value": "50%"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 15,
+          "value": "rgba(0, 0, 0, 0.25) -1px 0px 0px 0px inset"
+        },
+        {
+          "count": 1,
+          "value": "rgb(0, 0, 0) 0px 0px 0px 2px, rgba(0, 0, 0, 0.8) 0px 0px 6px 0px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 11,
+          "value": "8px"
+        },
+        {
+          "count": 8,
+          "value": "4px"
+        },
+        {
+          "count": 4,
+          "value": "1px"
+        },
+        {
+          "count": 3,
+          "value": "2px"
+        },
+        {
+          "count": 3,
+          "value": "6px"
+        },
+        {
+          "count": 2,
+          "value": "12px"
+        },
+        {
+          "count": 1,
+          "value": "16px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 11,
+          "value": "#111111"
+        },
+        {
+          "count": 7,
+          "value": "#ffffff"
+        },
+        {
+          "count": 7,
+          "value": "#eeeeee"
+        },
+        {
+          "count": 5,
+          "value": "#aaaaaa"
+        },
+        {
+          "count": 3,
+          "value": "#dddddd"
+        },
+        {
+          "count": 1,
+          "value": "#f1ee1d"
+        },
+        {
+          "count": 1,
+          "value": "#cccccc"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 4194304,
+    "output_directory": "D:/IA/ReconstitutionPaleoTerre/_outils/capture-reconstitution",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 900,
+        "sha256": "59e6bdcbd538a4f939d9cfe38b0746ff05ef0b86c67d3aecfd7685ab3382e251",
+        "width": 1440
+      },
+      {
+        "css_width": 900,
+        "cut": false,
+        "file": "screenshot-900.png",
+        "height": 900,
+        "sha256": "821e0de76231c48d4c5a523c5fd0883f64569315ebd29d6145ee2b39b0bbecc8",
+        "width": 900
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 900,
+        "sha256": "9d2835c884efb99bca8abf5c2aa9674f7bb9980b61fbb5871c233299fa7170a2",
+        "width": 390
+      }
+    ],
+    "title": "La Terre ancienne — globe paléogéographique",
+    "url": "http://127.0.0.1:8765/index.html#460"
+  },
+  "summary": "Captured http://127.0.0.1:8765/index.html: 3 screenshot(s), 33 outline items, 13 headings, 0 images, 12 links, 0 forms → D:/IA/ReconstitutionPaleoTerre/_outils/capture-reconstitution.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "cross_origin_css",
+      "message": "CSS custom properties and breakpoints from cross-origin stylesheets can't be read."
+    },
+    {
+      "code": "html_cut",
+      "message": "page.html holds the first 4194304 of the page's 9249061 bytes of HTML: it was cut at the 4 MiB limit."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:8765/index.html"
+    },
+    {
+      "kind": "path",
+      "value": "D:/IA/ReconstitutionPaleoTerre/_outils/capture-reconstitution"
+    }
+  ],
+  "links": []
+}

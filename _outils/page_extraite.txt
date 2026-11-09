@@ -1,0 +1,281 @@
+LONGUEUR 66668
+=== BALISES SCRIPT ===
+<script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js">
+<script src="/ancient-earth-assets/js/dist/bundle-20261107.js">
+<script type="text/javascript">
+<script>
+<script>
+=== LIENS / STYLES ===
+<link rel="canonical" href="https://dinosaurpictures.org/ancient-earth" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/JavaScript-autoComplete/1.0.4/auto-complete.min.css" />
+=== APRES </style> (corps + js) ===
+</style>
+</head>
+<body>
+  <!-- Above the (static) globe canvas, below the positioned controls that follow. -->
+  <div id="country-labels"></div>
+  <div class="top hide-in-iframe">
+    <div class="links">
+      <strong><a href="https://dinosaurpictures.org/" style="color:#f1ee1d;">&laquo; Back to Dinosaur Database</a></strong>
+    </div>
+    <strong class="main-heading">
+      What did Earth look like
+<select id="years-ago" aria-label="Millions of years ago">
+        <option value="1000">1000 million</option>
+        <option value="950">950 million</option>
+        <option value="900">900 million</option>
+        <option value="850">850 million</option>
+        <option value="800">800 million</option>
+        <option value="750">750 million</option>
+        <option value="690">690 million</option>
+        <option value="640">640 million</option>
+        <option value="600">600 million</option>
+        <option value="560">560 million</option>
+        <option value="540">540 million</option>
+        <option value="535">535 million</option>
+        <option value="530">530 million</option>
+        <option value="525">525 million</option>
+        <option value="520">520 million</option>
+        <option value="515">515 million</option>
+        <option value="510">510 million</option>
+        <option value="505">505 million</option>
+        <option value="500">500 million</option>
+        <option value="495">495 million</option>
+        <option value="490">490 million</option>
+        <option value="485">485 million</option>
+        <option value="480">480 million</option>
+        <option value="475">475 million</option>
+        <option value="470">470 million</option>
+        <option value="465">465 million</option>
+        <option value="460">460 million</option>
+        <option value="455">455 million</option>
+        <option value="450">450 million</option>
+        <option value="445">445 million</option>
+        <option value="440">440 million</option>
+        <option value="435">435 million</option>
+        <option value="430">430 million</option>
+        <option value="425">425 million</option>
+        <option value="420">420 million</option>
+        <option value="415">415 million</option>
+        <option value="410">410 million</option>
+        <option value="405">405 million</option>
+        <option value="400">400 million</option>
+        <option value="395">395 million</option>
+        <option value="390">390 million</option>
+        <option value="385">385 million</option>
+        <option value="380">380 million</option>
+        <option value="375">375 million</option>
+        <option value="370">370 million</option>
+        <option value="365">365 million</option>
+        <option value="360">360 million</option>
+        <option value="355">355 million</option>
+        <option value="350">350 million</option>
+        <option value="345">345 million</option>
+        <option value="340">340 million</option>
+        <option value="335">335 million</option>
+        <option value="330">330 million</option>
+        <option value="325">325 million</option>
+        <option value="320">320 million</option>
+        <option value="315">315 million</option>
+        <option value="310">310 million</option>
+        <option value="305">305 million</option>
+        <option value="300">300 million</option>
+        <option value="295">295 million</option>
+        <option value="290">290 million</option>
+        <option value="285">285 million</option>
+        <option value="280">280 million</option>
+        <option value="275">275 million</option>
+        <option value="270">270 million</option>
+        <option value="265">265 million</option>
+        <option value="260">260 million</option>
+        <option value="255">255 million</option>
+        <option value="250">250 million</option>
+        <option value="245">245 million</option>
+        <option value="240">240 million</option>
+        <option value="235">235 million</option>
+        <option value="230">230 million</option>
+        <option value="225">225 million</option>
+        <option value="220">220 million</option>
+        <option value="215">215 million</option>
+        <option value="210">210 million</option>
+        <option value="205">205 million</option>
+        <option value="200">200 million</option>
+        <option value="195">195 million</option>
+        <option value="190">190 million</option>
+        <option value="185">185 million</option>
+        <option value="180">180 million</option>
+        <option value="175">175 million</option>
+        <option value="170">170 million</option>
+        <option value="165">165 million</option>
+        <option value="160">160 million</option>
+        <option value="155">155 million</option>
+        <option value="150">150 million</option>
+        <option value="145">145 million</option>
+        <option value="140">140 million</option>
+        <option value="135">135 million</option>
+        <option value="130">130 million</option>
+        <option value="125">125 million</option>
+        <option value="120">120 million</option>
+        <option value="115">115 million</option>
+        <option value="110">110 million</option>
+        <option value="105">105 million</option>
+        <option value="100">100 million</option>
+        <option value="95">95 million</option>
+        <option value="90">90 million</option>
+        <option value="85">85 million</option>
+        <option value="80">80 million</option>
+        <option value="75">75 million</option>
+        <option value="70">70 million</option>
+        <option value="66">66 million</option>
+        <option value="60">60 million</option>
+        <option value="55">55 million</option>
+        <option value="50">50 million</option>
+        <option value="45">45 million</option>
+        <option value="40">40 million</option>
+        <option value="35">35 million</option>
+        <option value="30">30 million</option>
+        <option value="25">25 million</option>
+        <option value="20">20 million</option>
+        <option value="15">15 million</option>
+        <option value="10">10 million</option>
+        <option value="5">5 million</option>
+        <option value="0">0</option>
+      </select>
+      years ago?
+    </strong>
+    <div class="social-container">
+      <ul class="share-buttons">
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fdinosaurpictures.org%2F&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/ancient-earth-assets/images/flat_web_icon_set/color/Facebook.png"></a></li>
+        <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fdinosaurpictures.org%2F&text=http%3A%2F%2Fdinosaurpictures.org%2F&via=iwebst" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?via=iwebst&text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/ancient-earth-assets/images/flat_web_icon_set/color/Twitter.png"></a></li>
+        <li><a href="mailto:?subject=&body=:%20http%3A%2F%2Fdinosaurpictures.org%2F" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img src="/ancient-earth-assets/images/flat_web_icon_set/color/Email.png"></a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="controls" class="hide-in-iframe">
+    <button id="settings-toggle" type="button" aria-label="Display settings" title="Display settings" aria-expanded="false" aria-controls="settings-panel">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+    </button>
+    <div id="settings-panel" role="group" aria-label="Display settings" hidden>
+      <div class="settings-title">Display</div>
+      <label class="setting">Rotate globe <input id="toggle-rotation" type="checkbox" checked></label>
+      <label class="setting">Clouds <input id="toggle-clouds" type="checkbox" checked></label>
+      <label class="setting">Equator <input id="toggle-graticules" type="checkbox"></label>
+      <label class="setting">Country borders <input id="toggle-borders" type="checkbox"></label>
+      <label class="setting">Country names <input id="toggle-country-names" type="checkbox"></label>
+      <label class="setting">Bright lighting <input id="toggle-lighting" type="checkbox"></label>
+      <button type="button" class="settings-credits js-open-credits">About &amp; credits</button>
+    </div>
+  </div>
+
+  <div id="address-input" class="hide-in-iframe">
+    <div class="address-input-container">
+      <input id="address-input-autocomplete" list="address-list" placeholder="Enter a city name to view it on the globe" type="text" />
+      <!--<span id="btn-current-location">⌖</span>-->
+    </div>
+    <div id="address-warning" class="below-autocomplete"></div>
+    <div id="address-nearby" class="below-autocomplete"></div>
+  </div>
+  <div class="hide-in-iframe">
+    <div id="copyright">
+      Paleogeography from <a href="http://www.scotese.com/">C.R. Scotese</a> &amp; <a href="https://www.earthbyte.org/">EarthByte</a>, visualization developed by <a href="https://www.ianww.com">Ian Webster</a> &middot; &nbsp;<a href="#" class="js-open-credits">Details &raquo;</a>
+    </div>
+  </div>
+
+  <div id="timeline" class="hide-in-iframe">
+    <!-- In the timeline's flow so it stays above the readout at any height. -->
+    <div id="explanation"></div>
+    <div class="timeline-header">
+      <div class="timeline-readout">
+        <div class="title"><span id="how-long-ago">240</span> <span id="how-long-ago-unit">million years ago</span></div>
+        <div id="timeline-label" class="timeline-label"></div>
+      </div>
+      <div class="timeline-controls">
+        <div id="instructions">
+          Use the ← and → keys or drag the timeline to travel through time
+        </div>
+        <select id="jump-to" aria-label="Jump to a moment in Earth history">
+          <option value="" selected disabled>Jump to&hellip;</option>
+          <option value="1000">Rodinia supercontinent</option>
+          <option value="750">first green algae</option>
+          <option value="690">Snowball Earth</option>
+          <option value="600">Pannotia supercontinent</option>
+          <option value="560">first complex animals</option>
+          <option value="540">first shells</option>
+          <option value="470">first coral reefs</option>
+          <option value="470">first vertebrates</option>
+          <option value="430">first land plants</option>
+          <option value="400">first land animals</option>
+          <option value="400">first insects</option>
+          <option value="385">first forests</option>
+          <option value="300">first reptiles</option>
+          <option value="250">Great Dying</option>
+          <option value="240">Pangea supercontinent</option>
+          <option value="220">first dinosaurs</option>
+          <option value="120">first flowers</option>
+          <option value="66">dinosaur extinction</option>
+          <option value="35">first primates</option>
+          <option value="35">first grass</option>
+          <option value="20">first hominids</option>
+          <option value="0">today</option>
+        </select>
+      </div>
+    </div>
+    <div class="timeline-track" role="slider" tabindex="0" aria-label="Time" aria-valuemin="0" aria-valuemax="1000">
+      <div class="timeline-periods"></div>
+      <div class="timeline-events"></div>
+      <div class="timeline-thumb"></div>
+    </div>
+    <div class="timeline-scale">
+      <span style="left: 0%">1 billion</span>
+      <span style="left: 46%">540</span>
+      <span style="left: 75%">250</span>
+      <span style="left: 93.4%" class="scale-wide">66</span>
+      <span style="left: 100%">Today</span>
+    </div>
+  </div>
+
+  <div id="loading">Loading...</div>
+
+	<div id="webgl"></div>
+
+  <div id="credits-modal" class="modal-container">
+      <div class="modal-content">
+        <div class="modal-close modal-close-x">&times;</div>
+        <p>
+          This visualization is created and maintained by Ian Webster. See more of my work at <a href="https://www.ianww.com">ianww.com</a> or email me at <a href="mailto:ian@dinosaurpictures.org">ian@dinosaurpictures.org</a>.
+        </p>
+        <p>
+          <span style="background-color:#f9ffa5"><a href="https://ancientearth.substack.com/subscribe">Click here to subscribe to occassional email updates when we add something interesting to this visualization</a></span> such as new dinosaur or plate tectonic data.
+        </p>
+        <hr/>
+        <p>
+          Maps from 0 to 540 million years ago are rendered from the paleo-digital elevation models of C.R. Scotese's <a href="http://www.globalgeology.com">PALEOMAP Project</a> (Scotese &amp; Wright, 2018, <a href="https://doi.org/10.5281/zenodo.5460860">PALEOMAP Paleodigital Elevation Models for the Phanerozoic</a>, CC BY 4.0), with coastlines moved to match the fossil record using the PaleoCoastlines of Kocsis &amp; Scotese (2021, <a href="https://doi.org/10.1016/j.earscirev.2020.103463">Mapping paleocoastlines and continental flooding during the Phanerozoic</a>, Earth-Science Reviews 213; <a href="https://doi.org/10.5281/zenodo.7828387">data</a>, CC BY 4.0), and locations are reconstructed with the <a href="https://www.earthbyte.org/paleomap-paleoatlas-for-gplates">PALEOMAP plate model</a>.  Read more about the methods <a href="https://drive.google.com/file/d/1-q0WIa7ofISFHyBe4UxvN8DIPs82SPmS/view?usp=sharing">here</a>.
+        </p>
+        <p>
+          Maps from 560 million to 1 billion years ago are generated from the plate reconstructions of Merdith et al. (2021), <a href="https://doi.org/10.1016/j.earscirev.2020.103477">A continuous, kinematic full-plate motion model from 1 Ga to present</a>, Earth-Science Reviews 214, using <a href="https://www.gplates.org/">GPlates</a>.  No elevation data exists for this era, so land, shelves, mountain belts (near subduction zones and where continents collide), ocean depth (from mid-ocean ridges) and coastlines (from an estimated sea level) are approximated from the model, and Snowball Earth glaciations are shown as global ice cover.  These maps are a much rougher approximation than the younger ones.
+        </p>
+        <p>
+          Some elements of this visualization are not adjusted for time (eg. cloud and star positions). The locations are accurate to ~100 km. The coloring of the maps is based on elevation and bathymetry: dark blue = deep water, light blue = shallow water; dark green, green, tan, brown, white = ground in increasing order of elevation.  Before land plants spread (roughly 470 to 400 million years ago), land is shown as bare rock.
+        </p>
+      </div>
+  </div>
+
+  <script>
+    window.addEventListener('error', function(e) {
+      var errlog = {
+        msg: e.message,
+        location: e.filename + ': ' + e.lineno
+      };
+      mixpanel.track('js error', errlog);
+      ga('send', 'exception', {
+        exDescription: errlog.location + ' ' + errlog.msg
+      });
+      console.info('Tracked js error', errlog);
+    });
+
+    if (window.self !== window.top) {
+      document.body.className += ' is-iframe';
+    }
+
+    window.ANCIENT_EARTH_TIMES = [{"mya":0,"label":"Present day","source":"paleodem","explanation":""},{"mya":5,"label":"Late Pliocene","source":"paleodem","explanation":"Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."},{"mya":10,"label":"Middle/Late Miocene","source":"paleodem","explanation":"Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."},{"mya":15,"label":"Middle Miocene","source":"paleodem","explanation":"Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."},{"mya":20,"label":"Early Miocene","source":"paleodem","explanation":"Neogene Period.  Mammals and birds continue to evolve into modern forms.  Early hominids emerge in Africa."},{"mya":25,"label":"Late Oligocene","source":"paleodem","explanation":"Oligocene.  Antarctica becomes isolated and covered in ice sheets as the climate cools.  Grasslands expand, and many modern mammal families appear."},{"mya":30,"label":"Early Oligocene","source":"paleodem","explanation":"Oligocene.  Antarctica becomes isolated and covered in ice sheets as the climate cools.  Grasslands expand, and many modern mammal families appear."},{"mya":35,"label":"Late Eocene","source":"paleodem","explanation":"Mid Tertiary.  Mammals have evolved from small, simple forms to a diverse group.  Primates, cetaceans, and other groups evolve.  The Earth cools and deciduous plants become more common."},{"mya":40,"label":"late Middle Eocene","source":"paleodem","explanation":"Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."},{"mya":45,"label":"early Middle Eocene","source":"paleodem","explanation":"Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."},{"mya":50,"label":"Early Eocene","source":"paleodem","explanation":"Early Tertiary.  Following the asteroid impact that killed the dinosaurs, surviving birds, mammals, and reptiles diversified.  Early whales evolved from land mammals."},{"mya":55,"label":"Paleocene/Eocene Boundary","source":"paleodem","explanation":"Paleocene-Eocene Thermal Maximum.  A sudden release of carbon warms the planet by 5-8 °C.  Forests reach the poles, and primates, horses and other modern mammal orders appear and spread across the northern continents."},{"mya":60,"label":"Paleocene","source":"paleodem","explanation":"Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."},{"mya":66,"label":"K-Pg boundary","source":"paleodem","explanation":"Late Cretaceous.  A mass extinction occurs, leading to the extinction of dinosaurs, pterosaurs, many marine reptiles, and many marine invertebrates and other species.  Scientists believe the extinction was caused by an asteroid impact on the present-day Yucatan Peninsula in Mexico."},{"mya":70,"label":"Late Cretaceous","source":"paleodem","explanation":"Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and the shallow inland sea that split North America in two is shrinking.  Mosasaurs rule the oceans and flowering plants are now common."},{"mya":75,"label":"Late Cretaceous","source":"paleodem","explanation":"Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."},{"mya":80,"label":"Late Cretaceous","source":"paleodem","explanation":"Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."},{"mya":85,"label":"Late Cretaceous","source":"paleodem","explanation":"Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."},{"mya":90,"label":"Mid-Cretaceous","source":"paleodem","explanation":"Cretaceous Period.  Ceratopsian and pachycephalosaurid dinosaurs evolve.  Modern mammal, bird, and insect groups emerge."},{"mya":95,"label":"Mid-Cretaceous","source":"paleodem","explanation":"Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."},{"mya":100,"label":"Early Cretaceous","source":"paleodem","explanation":"Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."},{"mya":105,"label":"Early Cretaceous","source":"paleodem","explanation":"Cretaceous Period.  Ceratopsian and pachycephalosaurid dinosaurs evolve.  Modern mammal, bird, and insect groups emerge."},{"mya":110,"label":"Early Cretaceous","source":"paleodem","explanation":"Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."},{"mya":115,"label":"Early Cretaceous","source":"paleodem","explanation":"Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."},{"mya":120,"label":"Early Cretaceous","source":"paleodem","explanation":"Early Cretaceous.  The world is warm and has no polar ice caps.  Large reptiles dominate and mammals remained small.  Flowering plants evolve and spread throughout the world."},{"mya":125,"label":"Early Cretaceous","source":"paleodem","explanation":"Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."},{"mya":130,"label":"Early Cretaceous","source":"paleodem","explanation":"Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."},{"mya":135,"label":"Early Cretaceous","source":"paleodem","explanation":"Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."},{"mya":140,"label":"Early Cretaceous","source":"paleodem","explanation":"Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."},{"mya":145,"label":"Jurassic/Cretaceous Boundary","source":"paleodem","explanation":"Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."},{"mya":150,"label":"Late Jurassic","source":"paleodem","explanation":"Late Jurassic.  The earliest lizards have appeared and primitive placental mammals have evolved.  Dinosaurs dominate both landmasses.  Large marine reptiles inhabited the ocean, and pterosaurs were the dominant flying vertebrates."},{"mya":155,"label":"Late Jurassic","source":"paleodem","explanation":"Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."},{"mya":160,"label":"Late Jurassic","source":"paleodem","explanation":"Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."},{"mya":165,"label":"Middle Jurassic","source":"paleodem","explanation":"Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."},{"mya":170,"label":"Middle Jurassic","source":"paleodem","explanation":"Jurassic Period.  Dinosaurs thrived as the first mammals and birds evolved.  Ocean life diversified and the Earth was very warm."},{"mya":175,"label":"Middle Jurassic","source":"paleodem","explanation":"Middle Jurassic.  Pangea is starting to split apart, and narrow seas creep between North America, Europe and Africa.  Long-necked sauropods spread across every continent, and early relatives of Megalosaurus hunt on land."},{"mya":180,"label":"Early Jurassic","source":"paleodem","explanation":"Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."},{"mya":185,"label":"Early Jurassic","source":"paleodem","explanation":"Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."},{"mya":190,"label":"Early Jurassic","source":"paleodem","explanation":"Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."},{"mya":195,"label":"Early Jurassic","source":"paleodem","explanation":"Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."},{"mya":200,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  An extinction event is about to happen, resulting in the disappearance of 76% of all terrestrial and marine life species and greatly reducing surviving populations.  Some families, such as pterosaurs, crocodiles, mammals, and fish were minimally affected.  The first true dinosaurs emerge."},{"mya":205,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":210,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":215,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":220,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Dinosaurs are still small and uncommon, living alongside the crocodile relatives that dominate the land.  Pterosaurs, the first flying vertebrates, take to the air, and early relatives of mammals scurry underfoot."},{"mya":225,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":230,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":235,"label":"Late Triassic","source":"paleodem","explanation":"Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."},{"mya":240,"label":"Middle Triassic","source":"paleodem","explanation":"Middle Triassic.  Life has largely recovered from the end-Permian extinction.  Archosaurs, the group that includes crocodiles and dinosaurs, are diversifying across Pangaea, and the close relatives of the first dinosaurs have appeared.  Ichthyosaurs and long-necked nothosaurs hunt in the seas."},{"mya":245,"label":"Middle Triassic","source":"paleodem","explanation":"Middle Triassic.  Life is recovering from the end-Permian mass extinction.  The first modern stony corals appear and reefs begin to return, while ichthyosaurs and long-necked nothosaurs hunt in the seas."},{"mya":250,"label":"Permo-Triassic Boundary","source":"paleodem","explanation":"Permian-Triassic boundary.  The greatest mass extinction in Earth's history, likely driven by enormous volcanic eruptions in Siberia, wipes out about 90% of marine species and most land animals."},{"mya":255,"label":"Late Permian","source":"paleodem","explanation":"Permian Period.  The supercontinent Pangea is nearly assembled and its interior is becoming a vast desert.  Synapsids, the ancestors of mammals, are the dominant land animals, and conifers and other seed plants spread across drier landscapes."},{"mya":260,"label":"late Middle Permian","source":"paleodem","explanation":"Late Permian.  The greatest ma

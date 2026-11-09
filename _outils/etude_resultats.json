@@ -1,0 +1,427 @@
+{
+  "initialize": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "capabilities": {
+        "completions": {},
+        "logging": {},
+        "prompts": {
+          "listChanged": false
+        },
+        "resources": {
+          "listChanged": false,
+          "subscribe": false
+        },
+        "tools": {
+          "listChanged": true
+        }
+      },
+      "instructions": "Craft Anything shows how software works, with evidence. Start with core_investigation_show and core_session_show. Open a target with core_target_open (absolute path), then use focused tools; ask for summaries first and page for detail. Only the Essentials toolset is listed at first: call list_toolsets and enable_toolset to add native, Android, web and other tools. Keep the investigation memory current (core_brief_write, core_plan_update, core_hypothesis_record, core_finding_record with evidence ids, core_handoff_write at the end of each turn). Cite evidence ids, separate observations from inferences, and record open questions as unknowns. Tools that run code or change a device need the user's approval. In Clean room (Deep mode off) only the tools that work from outside are listed: nothing inside a target is read, and a refused tool says how to turn Deep mode on.",
+      "protocolVersion": "2024-11-05",
+      "serverInfo": {
+        "name": "craft-anything",
+        "title": "Craft Anything",
+        "version": "0.4.0"
+      }
+    }
+  },
+  "tools_web": [],
+  "open": {
+    "authority": "our-run",
+    "confidence": "observed",
+    "coverage": {
+      "examined": 1,
+      "status": "complete",
+      "total": 1
+    },
+    "environment": {
+      "clean_room": true,
+      "engine": "cdp",
+      "engine_version": "1.3",
+      "host": "windows-x86_64"
+    },
+    "id": "ev_55717536d528072f6af35e3665ca231a524ab2e8c4ea335b4c0bb967b9ea0d5f",
+    "limitations": [
+      {
+        "code": "private_profile",
+        "message": "A fresh private browser: pages behind a login show their signed-out state."
+      }
+    ],
+    "links": [],
+    "locations": [
+      {
+        "kind": "url",
+        "value": "https://dinosaurpictures.org/ancient-earth"
+      }
+    ],
+    "operation": "web_site_open",
+    "params": {
+      "height": 900,
+      "url": "https://dinosaurpictures.org/ancient-earth",
+      "width": 1440
+    },
+    "result": {
+      "browser": "Chrome/157.0.8103.38",
+      "facts": {
+        "forms": 0,
+        "height": 904,
+        "images": 3,
+        "lang": "",
+        "links": 19,
+        "ready": "complete",
+        "title": "Ancient Earth globe",
+        "url": "https://dinosaurpictures.org/ancient-earth#460",
+        "width": 1440
+      },
+      "health": null,
+      "title": "Ancient Earth globe",
+      "url": "https://dinosaurpictures.org/ancient-earth#460"
+    },
+    "subject": {
+      "kind": "website",
+      "name": "https://dinosaurpictures.org/ancient-earth"
+    },
+    "summary": "Opened https://dinosaurpictures.org/ancient-earth: \"Ancient Earth globe\"."
+  },
+  "page_show": {
+    "error": {
+      "category": "missing",
+      "code": "feature_missing",
+      "details": {
+        "reason": "clean_room",
+        "tool": "web_page_show"
+      },
+      "message": "This looks inside the original (its code, files or page source), which Clean room never does.",
+      "remediation": "Turn on Deep mode: the switch in the title bar or Settings, `settings_set deep_mode true`, or `--deep` on the CLI.",
+      "retryable": false
+    }
+  },
+  "capture": {
+    "authority": "our-run",
+    "confidence": "observed",
+    "coverage": {
+      "examined": 3,
+      "status": "complete",
+      "total": 3
+    },
+    "environment": {
+      "clean_room": true,
+      "engine": "cdp",
+      "engine_version": "1.3",
+      "host": "windows-x86_64"
+    },
+    "id": "ev_3f53a61cf756889e250782fc8177f7146073d1b7acaabb67588738ca271fde07",
+    "limitations": [
+      {
+        "code": "one_state",
+        "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+      },
+      {
+        "code": "visitor_view",
+        "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+      }
+    ],
+    "links": [],
+    "locations": [
+      {
+        "kind": "url",
+        "value": "https://dinosaurpictures.org/ancient-earth"
+      },
+      {
+        "kind": "path",
+        "value": "D:/IA/ReconstitutionPaleoTerre/_outils/capture-original"
+      }
+    ],
+    "operation": "web_site_capture",
+    "params": {
+      "include_html": false,
+      "max_height": 12000,
+      "noise_pass": false,
+      "visitor_view": true,
+      "widths": [
+        1440,
+        900,
+        390
+      ]
+    },
+    "result": {
+      "counts": {
+        "forms": 0,
+        "headings": 0,
+        "images": 3,
+        "links": 19,
+        "outline": 36
+      },
+      "design": {
+        "backgrounds": [
+          {
+            "count": 2,
+            "value": "#000000"
+          },
+          {
+            "count": 2,
+            "value": "#ffffff"
+          },
+          {
+            "count": 2,
+            "value": "#202020"
+          },
+          {
+            "count": 1,
+            "value": "#141414cc"
+          },
+          {
+            "count": 1,
+            "value": "#333333"
+          },
+          {
+            "count": 1,
+            "value": "#febf4e"
+          },
+          {
+            "count": 1,
+            "value": "#fecc5c"
+          },
+          {
+            "count": 1,
+            "value": "#fed96a"
+          },
+          {
+            "count": 1,
+            "value": "#7fa056"
+          },
+          {
+            "count": 1,
+            "value": "#009270"
+          },
+          {
+            "count": 1,
+            "value": "#b3e1b6"
+          },
+          {
+            "count": 1,
+            "value": "#cb8c37"
+          },
+          {
+            "count": 1,
+            "value": "#67a599"
+          },
+          {
+            "count": 1,
+            "value": "#f04028"
+          },
+          {
+            "count": 1,
+            "value": "#812b92"
+          },
+          {
+            "count": 1,
+            "value": "#34b2c9"
+          }
+        ],
+        "font_sizes": [
+          {
+            "count": 14,
+            "value": "10px"
+          },
+          {
+            "count": 7,
+            "value": "12px"
+          },
+          {
+            "count": 5,
+            "value": "11px"
+          },
+          {
+            "count": 2,
+            "value": "28px"
+          },
+          {
+            "count": 1,
+            "value": "16px"
+          },
+          {
+            "count": 1,
+            "value": "14px"
+          },
+          {
+            "count": 1,
+            "value": "13px"
+          }
+        ],
+        "font_weights": [
+          {
+            "count": 27,
+            "value": "400"
+          },
+          {
+            "count": 4,
+            "value": "700"
+          }
+        ],
+        "fonts": [
+          {
+            "count": 29,
+            "value": "proxima-nova, Helvetica, sans-serif"
+          },
+          {
+            "count": 2,
+            "value": "Helvetica, sans-serif"
+          }
+        ],
+        "max_widths": [
+          {
+            "count": 1,
+            "value": "300px"
+          }
+        ],
+        "radii": [
+          {
+            "count": 2,
+            "value": "5px"
+          },
+          {
+            "count": 1,
+            "value": "50%"
+          },
+          {
+            "count": 1,
+            "value": "4px"
+          },
+          {
+            "count": 1,
+            "value": "2px"
+          }
+        ],
+        "shadows": [
+          {
+            "count": 15,
+            "value": "rgba(0, 0, 0, 0.25) -1px 0px 0px 0px inset"
+          },
+          {
+            "count": 1,
+            "value": "rgb(0, 0, 0) 0px 0px 0px 2px, rgba(0, 0, 0, 0.8) 0px 0px 6px 0px"
+          }
+        ],
+        "spacing": [
+          {
+            "count": 4,
+            "value": "8px"
+          },
+          {
+            "count": 3,
+            "value": "6px"
+          },
+          {
+            "count": 2,
+            "value": "1px"
+          },
+          {
+            "count": 2,
+            "value": "12px"
+          },
+          {
+            "count": 1,
+            "value": "2px"
+          },
+          {
+            "count": 1,
+            "value": "5px"
+          },
+          {
+            "count": 1,
+            "value": "16px"
+          },
+          {
+            "count": 1,
+            "value": "20px"
+          }
+        ],
+        "text_colors": [
+          {
+            "count": 11,
+            "value": "#111111"
+          },
+          {
+            "count": 10,
+            "value": "#ffffff"
+          },
+          {
+            "count": 5,
+            "value": "#aaaaaa"
+          },
+          {
+            "count": 3,
+            "value": "#eeeeee"
+          },
+          {
+            "count": 1,
+            "value": "#f1ee1d"
+          },
+          {
+            "count": 1,
+            "value": "#cccccc"
+          }
+        ]
+      },
+      "files": [
+        "README.md",
+        "capture.json"
+      ],
+      "html_bytes": 0,
+      "output_directory": "D:/IA/ReconstitutionPaleoTerre/_outils/capture-original",
+      "screenshots": [
+        {
+          "css_width": 1440,
+          "cut": false,
+          "file": "screenshot-1440.png",
+          "height": 904,
+          "sha256": "05d6a7ca1c1aa7d5eec535121e8527a2a1efef7587319353577c9b059fb6fb02",
+          "width": 1440
+        },
+        {
+          "css_width": 900,
+          "cut": false,
+          "file": "screenshot-900.png",
+          "height": 904,
+          "sha256": "2a29ca3addcab55d8ccf1e06296c4cd6300871d97ccfde4970dd875b48d22adc",
+          "width": 900
+        },
+        {
+          "css_width": 390,
+          "cut": false,
+          "file": "screenshot-390.png",
+          "height": 2081,
+          "sha256": "cc6144d48181e3eb7b51cf65c25ed30f8ad45b02dc5e8d3c19ba16ab968e8ead",
+          "width": 390
+        }
+      ],
+      "title": "Ancient Earth globe",
+      "url": "https://dinosaurpictures.org/ancient-earth#460"
+    },
+    "subject": {
+      "kind": "website",
+      "name": "https://dinosaurpictures.org/ancient-earth"
+    },
+    "summary": "Captured https://dinosaurpictures.org/ancient-earth: 3 screenshot(s), 36 outline items, 0 headings, 3 images, 19 links, 0 forms → D:/IA/ReconstitutionPaleoTerre/_outils/capture-original."
+  },
+  "walkthrough": {
+    "error": {
+      "category": "missing",
+      "code": "feature_missing",
+      "details": {
+        "reason": "clean_room",
+        "tool": "web_walkthrough_record"
+      },
+      "message": "This looks inside the original (its code, files or page source), which Clean room never does.",
+      "remediation": "Turn on Deep mode: the switch in the title bar or Settings, `settings_set deep_mode true`, or `--deep` on the CLI.",
+      "retryable": false
+    }
+  },
+  "close": {
+    "result": {
+      "closed": true
+    }
+  }
+}

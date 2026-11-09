@@ -1,0 +1,1402 @@
+{
+  "id": "ev_ca15f0b12f1d3f88afa23aadb7f81d805a2758e8578acd97793332ed52ee728a",
+  "subject": {
+    "kind": "website",
+    "name": "https://dinosaurpictures.org/ancient-earth#460"
+  },
+  "operation": "web_page_show",
+  "params": {
+    "endpoint": "http://127.0.0.1:58679",
+    "sensitive_value_declarations": 0
+  },
+  "result": {
+    "accessibility": {
+      "nodes": [
+        {
+          "name": "Ancient Earth globe",
+          "role": "RootWebArea"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "strong"
+        },
+        {
+          "name": "Display settings",
+          "role": "button"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "Jump to a moment in Earth history",
+          "role": "combobox"
+        },
+        {
+          "name": "Time",
+          "role": "slider"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "What did Earth look like ",
+          "role": "StaticText"
+        },
+        {
+          "name": "Millions of years ago",
+          "role": "combobox"
+        },
+        {
+          "name": " years ago?",
+          "role": "StaticText"
+        },
+        {
+          "name": "Enter a city name to view it on the globe",
+          "role": "textbox"
+        },
+        {
+          "name": "Ordovician Period. Marine life undergoes the \"Great Ordovician Biodiversification Event.\" Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore.",
+          "role": "StaticText"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": " ",
+          "role": "StaticText"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "Middle Ordovician",
+          "role": "StaticText"
+        },
+        {
+          "name": "",
+          "role": "MenuListPopup"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "1 billion",
+          "role": "StaticText"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "540",
+          "role": "StaticText"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "250",
+          "role": "StaticText"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "Today",
+          "role": "StaticText"
+        },
+        {
+          "name": "What did Earth look like ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "",
+          "role": "MenuListPopup"
+        },
+        {
+          "name": " years ago?",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": null,
+          "role": "none"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "Ordovician Period. Marine life undergoes the \"Great Ordovician ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Biodiversification Event.\" Trilobites, brachiopods, nautiloids and ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "early fish fill the seas, and the first simple plants begin to ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "colonize damp ground near the shore.",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "460",
+          "role": "StaticText"
+        },
+        {
+          "name": " ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "million years ago",
+          "role": "StaticText"
+        },
+        {
+          "name": "Middle Ordovician",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Jump to…",
+          "role": "option"
+        },
+        {
+          "name": "Rodinia supercontinent",
+          "role": "option"
+        },
+        {
+          "name": "first green algae",
+          "role": "option"
+        },
+        {
+          "name": "Snowball Earth",
+          "role": "option"
+        },
+        {
+          "name": "Pannotia supercontinent",
+          "role": "option"
+        },
+        {
+          "name": "first complex animals",
+          "role": "option"
+        },
+        {
+          "name": "first shells",
+          "role": "option"
+        },
+        {
+          "name": "first coral reefs",
+          "role": "option"
+        },
+        {
+          "name": "first vertebrates",
+          "role": "option"
+        },
+        {
+          "name": "first land plants",
+          "role": "option"
+        },
+        {
+          "name": "first land animals",
+          "role": "option"
+        },
+        {
+          "name": "first insects",
+          "role": "option"
+        },
+        {
+          "name": "first forests",
+          "role": "option"
+        },
+        {
+          "name": "first reptiles",
+          "role": "option"
+        },
+        {
+          "name": "Great Dying",
+          "role": "option"
+        },
+        {
+          "name": "Pangea supercontinent",
+          "role": "option"
+        },
+        {
+          "name": "first dinosaurs",
+          "role": "option"
+        },
+        {
+          "name": "first flowers",
+          "role": "option"
+        },
+        {
+          "name": "dinosaur extinction",
+          "role": "option"
+        },
+        {
+          "name": "first primates",
+          "role": "option"
+        },
+        {
+          "name": "first grass",
+          "role": "option"
+        },
+        {
+          "name": "first hominids",
+          "role": "option"
+        },
+        {
+          "name": "today",
+          "role": "option"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "name": "1 billion",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "540",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "250",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Today",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "1000 million",
+          "role": "option"
+        },
+        {
+          "name": "950 million",
+          "role": "option"
+        },
+        {
+          "name": "900 million",
+          "role": "option"
+        },
+        {
+          "name": "850 million",
+          "role": "option"
+        },
+        {
+          "name": "800 million",
+          "role": "option"
+        },
+        {
+          "name": "750 million",
+          "role": "option"
+        },
+        {
+          "name": "690 million",
+          "role": "option"
+        },
+        {
+          "name": "640 million",
+          "role": "option"
+        },
+        {
+          "name": "600 million",
+          "role": "option"
+        },
+        {
+          "name": "560 million",
+          "role": "option"
+        },
+        {
+          "name": "540 million",
+          "role": "option"
+        },
+        {
+          "name": "535 million",
+          "role": "option"
+        },
+        {
+          "name": "530 million",
+          "role": "option"
+        },
+        {
+          "name": "525 million",
+          "role": "option"
+        },
+        {
+          "name": "520 million",
+          "role": "option"
+        },
+        {
+          "name": "515 million",
+          "role": "option"
+        },
+        {
+          "name": "510 million",
+          "role": "option"
+        },
+        {
+          "name": "505 million",
+          "role": "option"
+        },
+        {
+          "name": "500 million",
+          "role": "option"
+        },
+        {
+          "name": "495 million",
+          "role": "option"
+        },
+        {
+          "name": "490 million",
+          "role": "option"
+        },
+        {
+          "name": "485 million",
+          "role": "option"
+        },
+        {
+          "name": "480 million",
+          "role": "option"
+        },
+        {
+          "name": "475 million",
+          "role": "option"
+        },
+        {
+          "name": "470 million",
+          "role": "option"
+        },
+        {
+          "name": "465 million",
+          "role": "option"
+        },
+        {
+          "name": "460 million",
+          "role": "option"
+        },
+        {
+          "name": "455 million",
+          "role": "option"
+        },
+        {
+          "name": "450 million",
+          "role": "option"
+        },
+        {
+          "name": "445 million",
+          "role": "option"
+        },
+        {
+          "name": "440 million",
+          "role": "option"
+        },
+        {
+          "name": "435 million",
+          "role": "option"
+        },
+        {
+          "name": "430 million",
+          "role": "option"
+        },
+        {
+          "name": "425 million",
+          "role": "option"
+        },
+        {
+          "name": "420 million",
+          "role": "option"
+        },
+        {
+          "name": "415 million",
+          "role": "option"
+        },
+        {
+          "name": "410 million",
+          "role": "option"
+        },
+        {
+          "name": "405 million",
+          "role": "option"
+        },
+        {
+          "name": "400 million",
+          "role": "option"
+        },
+        {
+          "name": "395 million",
+          "role": "option"
+        },
+        {
+          "name": "390 million",
+          "role": "option"
+        },
+        {
+          "name": "385 million",
+          "role": "option"
+        },
+        {
+          "name": "380 million",
+          "role": "option"
+        },
+        {
+          "name": "375 million",
+          "role": "option"
+        },
+        {
+          "name": "370 million",
+          "role": "option"
+        },
+        {
+          "name": "365 million",
+          "role": "option"
+        },
+        {
+          "name": "360 million",
+          "role": "option"
+        },
+        {
+          "name": "355 million",
+          "role": "option"
+        },
+        {
+          "name": "350 million",
+          "role": "option"
+        },
+        {
+          "name": "345 million",
+          "role": "option"
+        },
+        {
+          "name": "340 million",
+          "role": "option"
+        },
+        {
+          "name": "335 million",
+          "role": "option"
+        },
+        {
+          "name": "330 million",
+          "role": "option"
+        },
+        {
+          "name": "325 million",
+          "role": "option"
+        },
+        {
+          "name": "320 million",
+          "role": "option"
+        },
+        {
+          "name": "315 million",
+          "role": "option"
+        },
+        {
+          "name": "310 million",
+          "role": "option"
+        },
+        {
+          "name": "305 million",
+          "role": "option"
+        },
+        {
+          "name": "300 million",
+          "role": "option"
+        },
+        {
+          "name": "295 million",
+          "role": "option"
+        },
+        {
+          "name": "290 million",
+          "role": "option"
+        },
+        {
+          "name": "285 million",
+          "role": "option"
+        },
+        {
+          "name": "280 million",
+          "role": "option"
+        },
+        {
+          "name": "275 million",
+          "role": "option"
+        },
+        {
+          "name": "270 million",
+          "role": "option"
+        },
+        {
+          "name": "265 million",
+          "role": "option"
+        },
+        {
+          "name": "260 million",
+          "role": "option"
+        },
+        {
+          "name": "255 million",
+          "role": "option"
+        },
+        {
+          "name": "250 million",
+          "role": "option"
+        },
+        {
+          "name": "245 million",
+          "role": "option"
+        },
+        {
+          "name": "240 million",
+          "role": "option"
+        },
+        {
+          "name": "235 million",
+          "role": "option"
+        },
+        {
+          "name": "230 million",
+          "role": "option"
+        },
+        {
+          "name": "225 million",
+          "role": "option"
+        },
+        {
+          "name": "220 million",
+          "role": "option"
+        },
+        {
+          "name": "215 million",
+          "role": "option"
+        },
+        {
+          "name": "210 million",
+          "role": "option"
+        },
+        {
+          "name": "205 million",
+          "role": "option"
+        },
+        {
+          "name": "200 million",
+          "role": "option"
+        },
+        {
+          "name": "195 million",
+          "role": "option"
+        },
+        {
+          "name": "190 million",
+          "role": "option"
+        },
+        {
+          "name": "185 million",
+          "role": "option"
+        },
+        {
+          "name": "180 million",
+          "role": "option"
+        },
+        {
+          "name": "175 million",
+          "role": "option"
+        },
+        {
+          "name": "170 million",
+          "role": "option"
+        },
+        {
+          "name": "165 million",
+          "role": "option"
+        },
+        {
+          "name": "160 million",
+          "role": "option"
+        },
+        {
+          "name": "155 million",
+          "role": "option"
+        },
+        {
+          "name": "150 million",
+          "role": "option"
+        },
+        {
+          "name": "145 million",
+          "role": "option"
+        },
+        {
+          "name": "140 million",
+          "role": "option"
+        },
+        {
+          "name": "135 million",
+          "role": "option"
+        },
+        {
+          "name": "130 million",
+          "role": "option"
+        },
+        {
+          "name": "125 million",
+          "role": "option"
+        },
+        {
+          "name": "120 million",
+          "role": "option"
+        },
+        {
+          "name": "115 million",
+          "role": "option"
+        },
+        {
+          "name": "110 million",
+          "role": "option"
+        },
+        {
+          "name": "105 million",
+          "role": "option"
+        },
+        {
+          "name": "100 million",
+          "role": "option"
+        },
+        {
+          "name": "95 million",
+          "role": "option"
+        },
+        {
+          "name": "90 million",
+          "role": "option"
+        },
+        {
+          "name": "85 million",
+          "role": "option"
+        },
+        {
+          "name": "80 million",
+          "role": "option"
+        },
+        {
+          "name": "75 million",
+          "role": "option"
+        },
+        {
+          "name": "70 million",
+          "role": "option"
+        },
+        {
+          "name": "66 million",
+          "role": "option"
+        },
+        {
+          "name": "60 million",
+          "role": "option"
+        },
+        {
+          "name": "55 million",
+          "role": "option"
+        },
+        {
+          "name": "50 million",
+          "role": "option"
+        },
+        {
+          "name": "45 million",
+          "role": "option"
+        },
+        {
+          "name": "40 million",
+          "role": "option"
+        },
+        {
+          "name": "35 million",
+          "role": "option"
+        },
+        {
+          "name": "30 million",
+          "role": "option"
+        },
+        {
+          "name": "25 million",
+          "role": "option"
+        },
+        {
+          "name": "20 million",
+          "role": "option"
+        },
+        {
+          "name": "15 million",
+          "role": "option"
+        },
+        {
+          "name": "10 million",
+          "role": "option"
+        },
+        {
+          "name": "5 million",
+          "role": "option"
+        },
+        {
+          "name": "0",
+          "role": "option"
+        },
+        {
+          "name": "460",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "million years ago",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Tonian",
+          "role": "StaticText"
+        },
+        {
+          "name": "Cry",
+          "role": "StaticText"
+        },
+        {
+          "name": "Ediacaran",
+          "role": "StaticText"
+        },
+        {
+          "name": "Ɔ",
+          "role": "StaticText"
+        },
+        {
+          "name": "O",
+          "role": "StaticText"
+        },
+        {
+          "name": "S",
+          "role": "StaticText"
+        },
+        {
+          "name": "D",
+          "role": "StaticText"
+        },
+        {
+          "name": "C",
+          "role": "StaticText"
+        },
+        {
+          "name": "P",
+          "role": "StaticText"
+        },
+        {
+          "name": "T",
+          "role": "StaticText"
+        },
+        {
+          "name": "J",
+          "role": "StaticText"
+        },
+        {
+          "name": "K",
+          "role": "StaticText"
+        },
+        {
+          "name": "Pg",
+          "role": "StaticText"
+        },
+        {
+          "name": "N",
+          "role": "StaticText"
+        },
+        {
+          "name": "Tonian",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Cry",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Ediacaran",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Ɔ",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "O",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "S",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "D",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "C",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "P",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "T",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "J",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "K",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "Pg",
+          "role": "InlineTextBox"
+        },
+        {
+          "name": "N",
+          "role": "InlineTextBox"
+        }
+      ]
+    },
+    "console": {
+      "count": 4,
+      "entries": [
+        {
+          "level": "info",
+          "source": "console-api"
+        },
+        {
+          "level": "warning",
+          "source": "console-api"
+        },
+        {
+          "level": "log",
+          "source": "console-api"
+        },
+        {
+          "level": "warning",
+          "source": "console-api"
+        }
+      ],
+      "has_text": false
+    },
+    "dom": {
+      "attribute_names": [
+        "aria-controls",
+        "aria-expanded",
+        "aria-hidden",
+        "aria-label",
+        "aria-valuemax",
+        "aria-valuemin",
+        "aria-valuenow",
+        "aria-valuetext",
+        "async",
+        "autocomplete",
+        "charset",
+        "checked",
+        "class",
+        "content",
+        "cx",
+        "cy",
+        "d",
+        "data-tip",
+        "disabled",
+        "fill",
+        "height",
+        "hidden",
+        "href",
+        "id",
+        "list",
+        "name",
+        "onclick",
+        "placeholder",
+        "property",
+        "r",
+        "rel",
+        "role",
+        "selected",
+        "src",
+        "stroke",
+        "stroke-linecap",
+        "stroke-linejoin",
+        "stroke-width",
+        "style",
+        "tabindex",
+        "target",
+        "title",
+        "type",
+        "value",
+        "viewbox",
+        "width"
+      ],
+      "elements_by_name": {
+        "a": 19,
+        "body": 1,
+        "button": 20,
+        "canvas": 1,
+        "circle": 1,
+        "div": 47,
+        "head": 1,
+        "hr": 1,
+        "html": 1,
+        "img": 3,
+        "input": 7,
+        "label": 6,
+        "li": 3,
+        "link": 2,
+        "meta": 14,
+        "option": 142,
+        "p": 5,
+        "path": 1,
+        "script": 9,
+        "select": 2,
+        "span": 8,
+        "strong": 2,
+        "style": 1,
+        "svg": 1,
+        "title": 1,
+        "ul": 1
+      },
+      "text_nodes": 219,
+      "total_nodes": 526,
+      "truncated": false
+    },
+    "dropped_events": 0,
+    "frame_origins": [
+      "https://dinosaurpictures.org"
+    ],
+    "network": {
+      "request_count": 1,
+      "requests": [
+        {
+          "initiator": "script",
+          "json_body_outline": {
+            "kind": "object",
+            "properties": [
+              {
+                "name": "error",
+                "value": {
+                  "kind": "null"
+                }
+              },
+              {
+                "name": "status",
+                "value": {
+                  "kind": "number"
+                }
+              }
+            ],
+            "property_count": 2
+          },
+          "method": "POST",
+          "mime_type": "application/json",
+          "response_headers": {
+            "credentials_present": [],
+            "kept": {
+              "access-control-allow-credentials": {
+                "value_length": 4
+              },
+              "access-control-allow-headers": {
+                "value_length": 30
+              },
+              "access-control-allow-methods": {
+                "value_length": 18
+              },
+              "access-control-allow-origin": {
+                "value_length": 28
+              },
+              "access-control-expose-headers": {
+                "value_length": 15
+              },
+              "access-control-max-age": {
+                "value_length": 7
+              },
+              "alt-svc": {
+                "value_length": 5
+              },
+              "cache-control": "no-cache, no-store",
+              "content-length": "25",
+              "content-type": "application/json",
+              "date": {
+                "value_length": 29
+              },
+              "server": {
+                "value_length": 5
+              },
+              "strict-transport-security": "max-age=604800; includeSubDomains",
+              "via": {
+                "value_length": 10
+              },
+              "x-envoy-upstream-service-time": {
+                "value_length": 2
+              }
+            }
+          },
+          "status": 200,
+          "type": "XHR",
+          "url": "https://api-js.mixpanel.com/track/?verbose=1&ip=1&_=1794160026081"
+        }
+      ]
+    },
+    "origin": "https://dinosaurpictures.org/ancient-earth#460",
+    "resources": [
+      {
+        "mime_type": "image/jpeg",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/paleo/465.jpg"
+      },
+      {
+        "mime_type": "image/jpeg",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/paleo/470.jpg"
+      },
+      {
+        "mime_type": "image/png",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/fair_clouds_4k.png"
+      },
+      {
+        "mime_type": "text/javascript",
+        "type": "Script",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/js/dist/bundle-20261107.js"
+      },
+      {
+        "mime_type": "text/javascript",
+        "type": "Script",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "mime_type": "image/jpeg",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/paleo/455.jpg"
+      },
+      {
+        "mime_type": "application/javascript",
+        "type": "Script",
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-K7ZQF5PPYJ&cx=c&_slc=1"
+      },
+      {
+        "mime_type": "text/javascript",
+        "type": "Script",
+        "url": "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"
+      },
+      {
+        "mime_type": "image/png",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Facebook.png"
+      },
+      {
+        "mime_type": "image/png",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Twitter.png"
+      },
+      {
+        "mime_type": "application/javascript",
+        "type": "Script",
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"
+      },
+      {
+        "mime_type": "image/png",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Email.png"
+      },
+      {
+        "mime_type": "image/jpeg",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/paleo/460.jpg"
+      },
+      {
+        "mime_type": "image/jpeg",
+        "type": "Image",
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/images/paleo/450.jpg"
+      },
+      {
+        "mime_type": "text/css",
+        "type": "Stylesheet",
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/JavaScript-autoComplete/1.0.4/auto-complete.min.css"
+      }
+    ],
+    "scripts": [
+      {
+        "length": 33994,
+        "source_map_url": null,
+        "url": "https://dinosaurpictures.org/ancient-earth"
+      },
+      {
+        "length": 597015,
+        "source_map_url": null,
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"
+      },
+      {
+        "length": 61899,
+        "source_map_url": null,
+        "url": "https://dinosaurpictures.org/ancient-earth-assets/js/dist/bundle-20261107.js"
+      },
+      {
+        "length": 110309,
+        "source_map_url": null,
+        "url": "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"
+      },
+      {
+        "length": 52310,
+        "source_map_url": null,
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "length": 482723,
+        "source_map_url": null,
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-K7ZQF5PPYJ&cx=c&_slc=1"
+      }
+    ],
+    "scripts_truncated": false,
+    "secret_redactions": 0,
+    "storage_keys": null,
+    "watch_ms": 1200,
+    "websockets": null
+  },
+  "summary": "Inspected https://dinosaurpictures.org/ancient-earth#460: 6 script(s), 1 request outline(s), 1 frame origin(s).",
+  "confidence": "observed",
+  "authority": "earlier-record",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "passive_snapshot",
+      "message": "A passive observation of one moment in a live page; it shows what happened during the window, not everything the page can do."
+    },
+    {
+      "code": "values_not_kept",
+      "message": "Cookies, authorization headers and storage values are never kept; JSON bodies are reduced to outlines and declared secrets are redacted."
+    }
+  ],
+  "coverage": {
+    "status": "partial"
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://dinosaurpictures.org/ancient-earth#460"
+    }
+  ],
+  "links": []
+}

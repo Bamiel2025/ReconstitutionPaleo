@@ -1,0 +1,878 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {},
+    "lang": "fr",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "background_images": [],
+    "fonts": [],
+    "images": [],
+    "inline_scripts": 1,
+    "requests": [],
+    "scripts": [],
+    "stylesheets": []
+  },
+  "breakpoints": [
+    {
+      "count": 1,
+      "px": 760,
+      "query": "max-width 760px"
+    }
+  ],
+  "design": {
+    "backgrounds": [
+      {
+        "count": 2,
+        "value": "#000000"
+      },
+      {
+        "count": 2,
+        "value": "#ffffff"
+      },
+      {
+        "count": 2,
+        "value": "#202020"
+      },
+      {
+        "count": 1,
+        "value": "#141414cc"
+      },
+      {
+        "count": 1,
+        "value": "#333333"
+      },
+      {
+        "count": 1,
+        "value": "#febf4e"
+      },
+      {
+        "count": 1,
+        "value": "#fecc5c"
+      },
+      {
+        "count": 1,
+        "value": "#fed96a"
+      },
+      {
+        "count": 1,
+        "value": "#7fa056"
+      },
+      {
+        "count": 1,
+        "value": "#009270"
+      },
+      {
+        "count": 1,
+        "value": "#b3e1b6"
+      },
+      {
+        "count": 1,
+        "value": "#cb8c37"
+      },
+      {
+        "count": 1,
+        "value": "#67a599"
+      },
+      {
+        "count": 1,
+        "value": "#f04028"
+      },
+      {
+        "count": 1,
+        "value": "#812b92"
+      },
+      {
+        "count": 1,
+        "value": "#34b2c9"
+      }
+    ],
+    "css_variables": {
+      "--bord": "#555",
+      "--fond": "#000",
+      "--gris": "#aaa",
+      "--gris-clair": "#eee",
+      "--jaune": "#f1ee1d",
+      "--panneau": "rgba(20,20,20,.86)",
+      "--police": "\"proxima-nova\",Helvetica,Arial,\"Liberation Sans\",sans-serif",
+      "--texte": "#fff"
+    },
+    "font_faces": [],
+    "font_sizes": [
+      {
+        "count": 14,
+        "value": "10px"
+      },
+      {
+        "count": 8,
+        "value": "11px"
+      },
+      {
+        "count": 7,
+        "value": "12px"
+      },
+      {
+        "count": 3,
+        "value": "14px"
+      },
+      {
+        "count": 2,
+        "value": "28px"
+      },
+      {
+        "count": 1,
+        "value": "13px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 30,
+        "value": "400"
+      },
+      {
+        "count": 5,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 33,
+        "value": "proxima-nova, Helvetica, Arial, \"Liberation Sans\", sans-serif"
+      },
+      {
+        "count": 2,
+        "value": "Helvetica, Arial, sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 1,
+        "value": "230px"
+      },
+      {
+        "count": 1,
+        "value": "310px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 4,
+        "value": "4px"
+      },
+      {
+        "count": 2,
+        "value": "2px"
+      },
+      {
+        "count": 2,
+        "value": "5px"
+      },
+      {
+        "count": 1,
+        "value": "50%"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 15,
+        "value": "rgba(0, 0, 0, 0.25) -1px 0px 0px 0px inset"
+      },
+      {
+        "count": 1,
+        "value": "rgb(0, 0, 0) 0px 0px 0px 2px, rgba(0, 0, 0, 0.8) 0px 0px 6px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 11,
+        "value": "8px"
+      },
+      {
+        "count": 8,
+        "value": "4px"
+      },
+      {
+        "count": 4,
+        "value": "1px"
+      },
+      {
+        "count": 3,
+        "value": "2px"
+      },
+      {
+        "count": 3,
+        "value": "6px"
+      },
+      {
+        "count": 2,
+        "value": "12px"
+      },
+      {
+        "count": 1,
+        "value": "16px"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 11,
+        "value": "#111111"
+      },
+      {
+        "count": 7,
+        "value": "#ffffff"
+      },
+      {
+        "count": 7,
+        "value": "#eeeeee"
+      },
+      {
+        "count": 5,
+        "value": "#aaaaaa"
+      },
+      {
+        "count": 3,
+        "value": "#dddddd"
+      },
+      {
+        "count": 1,
+        "value": "#f1ee1d"
+      },
+      {
+        "count": 1,
+        "value": "#cccccc"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [
+    {
+      "level": 2,
+      "text": "À propos & crédits"
+    },
+    {
+      "level": 3,
+      "text": "Origine des cartes"
+    },
+    {
+      "level": 3,
+      "text": "Lire les couleurs"
+    },
+    {
+      "level": 3,
+      "text": "Limites de cette reconstitution"
+    },
+    {
+      "level": 2,
+      "text": "La Terre à travers le temps — fiche élève"
+    },
+    {
+      "level": 2,
+      "text": "Bilan — éléments de corrigé"
+    },
+    {
+      "level": 2,
+      "text": "Fiche professeur"
+    },
+    {
+      "level": 3,
+      "text": "Objectifs"
+    },
+    {
+      "level": 3,
+      "text": "Compétences travaillées"
+    },
+    {
+      "level": 3,
+      "text": "Déroulé proposé (35 à 45 min)"
+    },
+    {
+      "level": 3,
+      "text": "Points de vigilance"
+    },
+    {
+      "level": 3,
+      "text": "Réglages utiles en classe"
+    },
+    {
+      "level": 3,
+      "text": "Sources"
+    }
+  ],
+  "health": {
+    "errors": [],
+    "failed_requests": []
+  },
+  "lang": "fr",
+  "layouts": [
+    {
+      "blocks": [],
+      "page_h": 900,
+      "page_w": 1440,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [],
+      "page_h": 900,
+      "page_w": 900,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 900
+    },
+    {
+      "blocks": [],
+      "page_h": 900,
+      "page_w": 390,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://dinosaurpictures.org/ancient-earth",
+      "text": "« Site d'origine (en ligne)"
+    },
+    {
+      "href": "http://www.scotese.com/",
+      "text": "C.R. Scotese"
+    },
+    {
+      "href": "https://www.earthbyte.org/",
+      "text": "EarthByte"
+    },
+    {
+      "href": "https://www.ianww.com/",
+      "text": "Ian Webster"
+    },
+    {
+      "href": "http://127.0.0.1:8765/index.html#",
+      "text": "Détails »"
+    },
+    {
+      "href": "https://dinosaurpictures.org/ancient-earth",
+      "text": "dinosaurpictures.org"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.5460860",
+      "text": "PALEOMAP Paleodigital Elevation Models for the Phanerozoic"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.earscirev.2020.103463",
+      "text": "Mapping paleocoastlines and continental flooding during the Phanerozoic"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.7828387",
+      "text": "données"
+    },
+    {
+      "href": "https://www.earthbyte.org/paleomap-paleoatlas-for-gplates",
+      "text": "modèle de plaques PALEOMAP"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.earscirev.2020.103477",
+      "text": "A continuous, kinematic full-plate motion model from 1 Ga to present"
+    },
+    {
+      "href": "https://www.gplates.org/",
+      "text": "GPlates"
+    }
+  ],
+  "meta": {
+    "description": "Voyagez dans le temps géologique : la Terre il y a 1 milliard d'années jusqu'à aujourd'hui. Application hors ligne en français.",
+    "icons": [
+      "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%232b5d9e'/%3E%3Cpath d='M2 16h28M16 2c6 6 6 22 0 28M16 2c-6 6-6 22 0 28' stroke='%23fff' fill='none' stroke-width='1.4'/%3E%3C/svg%3E"
+    ],
+    "og_image": "",
+    "og_title": "",
+    "theme_color": ""
+  },
+  "outline": [
+    {
+      "box": {
+        "h": 14,
+        "w": 142,
+        "x": 20,
+        "y": 8
+      },
+      "color": "#f1ee1d",
+      "depth": 4,
+      "font": "12px 700",
+      "href": "https://dinosaurpictures.org/ancient-earth",
+      "tag": "a",
+      "text": "« Site d'origine (en ligne)"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 21,
+        "w": 200,
+        "x": 705,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "13px 700",
+      "id": "annees",
+      "name": "",
+      "placeholder": "",
+      "tag": "select",
+      "text": "il y a 1000 millions d'années il y a 950 millions d'années il y a 900 millions d'années il y a 850 millions d'années il y a 800 millions d'années il y a 750 millions d'années il y a 690 millions d'ann",
+      "type": "select-one"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 53,
+        "x": 1255,
+        "y": 9
+      },
+      "color": "#dddddd",
+      "depth": 4,
+      "font": "11px 400",
+      "id": "bouton-activite",
+      "tag": "button",
+      "text": "Activité"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 42,
+        "x": 1313,
+        "y": 9
+      },
+      "color": "#dddddd",
+      "depth": 4,
+      "font": "11px 400",
+      "id": "bouton-bilan",
+      "tag": "button",
+      "text": "Bilan"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 67,
+        "x": 1359,
+        "y": 9
+      },
+      "color": "#dddddd",
+      "depth": 4,
+      "font": "11px 400",
+      "id": "bouton-prof",
+      "tag": "button",
+      "text": "Fiche prof"
+    },
+    {
+      "background": "#202020",
+      "box": {
+        "h": 37,
+        "w": 250,
+        "x": 16,
+        "y": 50
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "13px 400",
+      "id": "saisie-ville",
+      "name": "",
+      "placeholder": "Saisissez une ville à situer…",
+      "tag": "input",
+      "type": "text"
+    },
+    {
+      "background": "#141414cc",
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1386,
+        "y": 50
+      },
+      "color": "#cccccc",
+      "depth": 3,
+      "font": "13.3333px 400",
+      "id": "bouton-reglages",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1396,
+        "y": 60
+      },
+      "color": "#cccccc",
+      "depth": 4,
+      "font": "13.3333px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#202020",
+      "box": {
+        "h": 31,
+        "w": 265,
+        "x": 1155,
+        "y": 773
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "13px 400",
+      "id": "aller-a",
+      "name": "",
+      "placeholder": "",
+      "tag": "select",
+      "text": "Aller à… Supercontinent Rodinia (1000 Ma) Premières algues vertes (750 Ma) Terre boule de neige (690 Ma) Supercontinent Pannotia (600 Ma) Premiers animaux complexes (560 Ma) Premières coquilles (540 M",
+      "type": "select-one"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 1400,
+        "x": 20,
+        "y": 824
+      },
+      "class": "piste",
+      "color": "#ffffff",
+      "depth": 3,
+      "font": "16px 400",
+      "id": "piste",
+      "role": "slider",
+      "tag": "div",
+      "text": "Tonien Cryogénien Édiacarien Cambrien O S Dévonien Carbonifère Permien Trias Jurassique Crétacé Pg N"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1413,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1385,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1364,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1321,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1245,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1105,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1077,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1063,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 993,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 874,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 853,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 811,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 755,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 657,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 629,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 573,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 447,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 363,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 13,
+        "y": 808
+      },
+      "class": "repere",
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 71,
+        "x": 1030,
+        "y": 876
+      },
+      "color": "#eeeeee",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "http://www.scotese.com/",
+      "tag": "a",
+      "text": "C.R. Scotese"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 53,
+        "x": 1116,
+        "y": 876
+      },
+      "color": "#eeeeee",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "https://www.earthbyte.org/",
+      "tag": "a",
+      "text": "EarthByte"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 64,
+        "x": 1303,
+        "y": 876
+      },
+      "color": "#eeeeee",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "https://www.ianww.com/",
+      "tag": "a",
+      "text": "Ian Webster"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 47,
+        "x": 1378,
+        "y": 876
+      },
+      "color": "#eeeeee",
+      "depth": 3,
+      "font": "12px 400",
+      "href": "http://127.0.0.1:8765/index.html#",
+      "id": "lien-credits",
+      "tag": "a",
+      "text": "Détails »"
+    }
+  ],
+  "page": {
+    "h": 900,
+    "w": 1440
+  },
+  "text": "« Site d'origine (en ligne) À quoi ressemblait la Terre il y a 1000 millions d'années il y a 950 millions d'années il y a 900 millions d'années il y a 850 millions d'années il y a 800 millions d'années il y a 750 millions d'années il y a 690 millions d'années il y a 640 millions d'années il y a 600 millions d'années il y a 560 millions d'années il y a 540 millions d'années il y a 535 millions d'années il y a 530 millions d'années il y a 525 millions d'années il y a 520 millions d'années il y a 515 millions d'années il y a 510 millions d'années il y a 505 millions d'années il y a 500 millions d'années il y a 495 millions d'années il y a 490 millions d'années il y a 485 millions d'années il y a 480 millions d'années il y a 475 millions d'années il y a 470 millions d'années il y a 465 millions d'années il y a 460 millions d'années il y a 455 millions d'années il y a 450 millions d'années il y a 445 millions d'années il y a 440 millions d'années il y a 435 millions d'années il y a 430 millions d'années il y a 425 millions d'années il y a 420 millions d'années il y a 415 millions d'années il y a 410 millions d'années il y a 405 millions d'années il y a 400 millions d'années il y a 395 millions d'années il y a 390 millions d'années il y a 385 millions d'années il y a 380 millions d'années il y a 375 millions d'années il y a 370 millions d'années il y a 365 millions d'années il y a 360 millions d'années il y a 355 millions d'années il y a 350 millions d'années il y a 345 millions d'années il y a 340 millions d'années il y a 335 millions d'années il y a 330 millions d'années il y a 325 millions d'années il y a 320 millions d'années il y a 315 millions d'années il y a 310 millions d'années il y a 305 millions d'années il y a 300 millions d'années il y a 295 millions d'années il y a 290 millions d'années il y a 285 millions d'années il y a 280 millions d'années il y a 275 millions d'années il y a 270 millions d'années il y a 265 millions d'années il y a 260 millions d'années il y a 255 millions d'années il y a 250 millions d'années il y a 245 millions d'années il y a 240 millions d'années il y a 235 millions d'années il y a 230 millions d'années il y a 225 millions d'années il y a 220 millions d'années il y a 215 millions d'années il y a 210 millions d'années il y a 205 millions d'années il y a 200 millions d'années il y a 195 millions d'années il y a 190 millions d'années il y a 185 millions d'années il y a 180 millions d'années il y a 175 millions d'années il y a 170 millions d'années il y a 165 millions d'années il y a 160 millions d'années il y a 155 millions d'années il y a 150 millions d'années il y a 145 millions d'années il y a 140 millions d'années il y a 135 millions d'années il y a 130 millions d'années il y a 125 millions d'années il y a 120 millions d'années il y a 115 millions d'années il y a 110 millions d'années il y a 105 millions d'années il y a 100 millions d'années il y a 95 millions d'années il y a 90 millions d'années il y a 85 millions d'années il y a 80 millions d'années il y a 75 millions d'années il y a 70 millions d'années il y a 66 millions d'années il y a 60 millions d'années il y a 55 millions d'années il y a 50 millions d'années il y a 45 millions d'années il y a 40 millions d'années il y a 35 millions d'années il y a 30 millions d'années il y a 25 millions d'années il y a 20 millions d'années il y a 15 millions d'années il y a 10 millions d'années il y a 5 millions d'années aujourd'hui ? Activité Bilan Fiche prof Période ordovicienne. La vie marine connaît la « Grande Biodiversification ordovicienne ». Trilobites, brachiopodes, nautiloïdes et poissons primitifs emplissent les mers, et les premières plantes simples commencent à coloniser les sols humides près des rivages. 460 millions d'années Ordovicien moyen Utilisez les touches ← et → ou faites glisser la frise pour voyager dans le temps Aller à… Supercontinent Rodinia (1000 Ma) Premières algues vertes (750 Ma) Terre boule de neige (690 Ma) Supercontinent Pannotia (600 Ma) Premiers animaux complexes (560 Ma) Premières coquilles (540 Ma) Premiers récifs coralliens (470 Ma) Premiers vertébrés (470 Ma) Premières plantes terrestres (430 Ma) Premiers animaux terrestres (400 Ma) Premiers insectes (400 Ma) Premières forêts (385 Ma) Premiers reptiles (300 Ma) La Grande Extinction (250 Ma) Supercontinent Pangée (240 Ma) Premiers dinosaures (220 Ma) Premières fleurs (120 Ma) Extinction des dinosaures (66 Ma) Premiers primates (35 Ma) Premières graminées (35 Ma) Premiers hominidés (20 Ma) Aujourd'hui (0 Ma) Tonien Cryogénien Édiacarien Cambrien O S Dévonien Carbonifère Permien Trias Jurassique Crétacé Pg N 1 milliard 540 250 66 Aujourd'hui Paléogéographie : C.R. Scotese & EarthByte · visualisation originale : Ian Webster · Détails »",
+  "title": "La Terre ancienne — globe paléogéographique",
+  "unreadable_stylesheets": 0,
+  "url": "http://127.0.0.1:8765/index.html#460",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

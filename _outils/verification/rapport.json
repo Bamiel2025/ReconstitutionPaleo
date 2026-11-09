@@ -1,0 +1,320 @@
+{
+  "resultats": {
+    "Titre": {
+      "valeur": "La Terre ancienne — globe paléogéographique",
+      "ok": true
+    },
+    "Date initiale (#460)": {
+      "valeur": "460",
+      "ok": true
+    },
+    "Sous-titre": {
+      "valeur": "Ordovicien moyen",
+      "ok": true
+    },
+    "Texte scientifique": {
+      "valeur": "Période ordovicienne. La vie marine connaît la « Grande Biodiversification ordovicienne ».",
+      "ok": true
+    },
+    "Options du sélecteur d'année": {
+      "valeur": 119,
+      "ok": true
+    },
+    "Événements « Aller à »": {
+      "valeur": 22,
+      "ok": true
+    },
+    "Bandes géologiques": {
+      "valeur": 15,
+      "ok": true
+    },
+    "Repères": {
+      "valeur": 19,
+      "ok": true
+    },
+    "Questions élève": {
+      "valeur": 7,
+      "ok": true
+    },
+    "Copie imprimable": {
+      "valeur": 7,
+      "ok": true
+    },
+    "Corrigés": {
+      "valeur": 7,
+      "ok": true
+    },
+    "Globe dessiné (pixels centre)": {
+      "valeur": {
+        "somme": 4732678,
+        "max": 591,
+        "nb": 11200
+      },
+      "ok": true
+    },
+    "Requêtes réseau": {
+      "valeur": [],
+      "ok": true
+    },
+    "Clavier ← / →": {
+      "valeur": "465 puis 460",
+      "ok": true
+    },
+    "Hash après navigation": {
+      "valeur": "#460",
+      "ok": true
+    },
+    "Aller à 250 Ma": {
+      "valeur": "250 / Limite Permien – Trias",
+      "ok": true
+    },
+    "Texte 250 Ma": {
+      "valeur": "Limite Permien – Trias. La plus grande extinction de masse de l'histoire de la T",
+      "ok": true
+    },
+    "Panneau réglages": {
+      "valeur": true,
+      "ok": true
+    },
+    "Bascule par libellé": {
+      "valeur": {
+        "frontieres": true,
+        "quadrillage": true,
+        "nuages": false
+      },
+      "ok": true
+    },
+    "Options persistées": {
+      "valeur": "{\"rotation\":true,\"nuages\":false,\"quadrillage\":true,\"frontieres\":true,\"noms\":false,\"lumiere\":false}",
+      "ok": true
+    },
+    "Grille paléo réelle (119 × 56)": {
+      "valeur": {
+        "annees": 119,
+        "entrees": 6664,
+        "pos": 5813,
+        "nul": 851
+      },
+      "ok": true
+    },
+    "Auriol : valeurs RÉELLES de l'API": {
+      "valeur": {
+        "a0": [
+          43.37,
+          5.63
+        ],
+        "a70": [
+          35.2,
+          4.79
+        ],
+        "a460": [
+          -65.81,
+          92.22
+        ],
+        "a1000": null
+      },
+      "ok": true
+    },
+    "Frontières modernes écartées du rendu": {
+      "valeur": "function dessinerFrontieres(){\n  const b=bordsAnnee(mya);if(!b)return;",
+      "ok": true
+    },
+    "Contours et labels PAR DATE": {
+      "valeur": {
+        "l0": 781,
+        "l460": 796,
+        "n0": 242,
+        "n460": 159,
+        "fr0": [
+          "France",
+          46.7,
+          2.6
+        ],
+        "fr460": [
+          "France",
+          -66.2,
+          81.4
+        ]
+      },
+      "ok": true
+    },
+    "Bandeau ville à 460 Ma": {
+      "valeur": "Auriol — à 460 Ma : 65,8° S, 92,2° E.\nPaléo-coordonnées du modèle de plaques du site d'origine.\nFOSSILES À PROXIMITÉ (5)\nHypselosaurus\nRhabd",
+      "ok": true
+    },
+    "Recherche ville (Auriol)": {
+      "valeur": "Auriol — à 460 Ma : 65,8° S, 92,2° E.\nPaléo-coordonnées du modèle de plaques du site d'origine.\nFOSSILES À PRO",
+      "ok": true
+    },
+    "Ville persistée": {
+      "valeur": "Auriol",
+      "ok": true
+    },
+    "Couverture fossiles": {
+      "valeur": {
+        "villes": 41,
+        "taxons": 104,
+        "villesLibelles": 56
+      },
+      "ok": true
+    },
+    "Fossiles à proximité (Auriol)": {
+      "valeur": [
+        "Hypselosaurus",
+        "Rhabdodon",
+        "Obelignathus",
+        "Ampelosaurus",
+        "Struthiosaurus"
+      ],
+      "ok": true
+    },
+    "Fiche Hypselosaurus": {
+      "valeur": "Hypselosaurus\nWikimedia Commons · Wikimedia Commons\n\nFiche établie à partir de la page dédiée du site d'origine et de Wikipédia en français.\n\nPériode\tCrétacé\nRégime alime",
+      "ok": true
+    },
+    "Lien vers la page dédiée": {
+      "valeur": "https://dinosaurpictures.org/Hypselosaurus-pictures",
+      "ok": true
+    },
+    "Photo Commons hors ligne": {
+      "valeur": "321x240",
+      "ok": true
+    },
+    "Crédit photo affiché": {
+      "valeur": "Wikimedia Commons · Wikimedia Commons",
+      "ok": true
+    },
+    "Sites de découverte à 0 Ma uniquement": {
+      "valeur": {
+        "annee": "",
+        "bandeau": true,
+        "taxon": "Hypselosaurus",
+        "nb": 2
+      },
+      "ok": true
+    },
+    "Masquer les sites": {
+      "valeur": false,
+      "ok": true
+    },
+    "Date non reconstructible assumée": {
+      "valeur": "Auriol — à 1000 Ma : position non reconstructible.\nLa plaque de ce point ne remonte pas aussi loin : essaie une date plus récente.",
+      "ok": true
+    },
+    "Décodage des photos de fiches": {
+      "valeur": {
+        "total": 92,
+        "ok": 92,
+        "bad": []
+      },
+      "ok": true
+    },
+    "Crédits : rigueur documentée": {
+      "valeur": "×\nÀ propos & crédits\n\nLa Terre ancienne est une reconstitution pédagogique française, entièrement hors ligne, ",
+      "ok": true
+    },
+    "Corrigé masqué avant code": {
+      "valeur": false,
+      "ok": true
+    },
+    "Code erroné": {
+      "valeur": "Code incorrect.",
+      "ok": true
+    },
+    "Corrigé visible après 2027": {
+      "valeur": true,
+      "ok": true
+    },
+    "Fiche professeur": {
+      "valeur": true,
+      "ok": true
+    },
+    "Autosave réponses": {
+      "valeur": "[\"Réponse de test : Gondwana au sud.\",\"\",\"\",\"\",\"\",\"\",\"\"]",
+      "ok": true
+    },
+    "Export .txt": {
+      "valeur": "Terre_ancienne_fiche_eleve.txt",
+      "ok": true
+    },
+    "Média impression": {
+      "valeur": {
+        "fiche": "block",
+        "globe": "none",
+        "volet": "none"
+      },
+      "ok": true
+    },
+    "PDF de la fiche élève": {
+      "valeur": 70072,
+      "ok": true
+    },
+    "Capture 1440 px": {
+      "valeur": "final-1440.png",
+      "ok": true
+    },
+    "Capture 900 px": {
+      "valeur": "final-900.png",
+      "ok": true
+    },
+    "Capture 390 px": {
+      "valeur": "final-390.png",
+      "ok": true
+    },
+    "Décodage des 119 cartes": {
+      "valeur": {
+        "total": 119,
+        "ok": 119,
+        "bad": [],
+        "nuages": "ok"
+      },
+      "ok": true
+    },
+    "Échantillon de dates": {
+      "valeur": [
+        [
+          0,
+          ""
+        ],
+        [
+          66,
+          "Limite Crétacé – Paléogène (K-Pg)"
+        ],
+        [
+          250,
+          "Limite Permien – Trias"
+        ],
+        [
+          460,
+          "Ordovicien moyen"
+        ],
+        [
+          540,
+          "Limite Précambrien – Cambrien"
+        ],
+        [
+          750,
+          "Néoprotérozoïque inférieur"
+        ],
+        [
+          1000,
+          "Limite Mésoprotérozoïque – Néoprotérozoïque"
+        ]
+      ],
+      "ok": true
+    },
+    "Erreurs console": {
+      "valeur": [],
+      "ok": true
+    },
+    "Erreurs JavaScript": {
+      "valeur": [],
+      "ok": true
+    }
+  },
+  "console": [],
+  "page": [],
+  "requetes": [
+    "file:///D:/IA/ReconstitutionPaleoTerre/index.html"
+  ]
+}

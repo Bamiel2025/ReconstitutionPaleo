@@ -1,0 +1,842 @@
+{
+  "a11y": {
+    "images_without_alt": 3,
+    "landmarks": {},
+    "lang": "",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "images": [
+      {
+        "h": 32,
+        "w": 32
+      },
+      {
+        "h": 32,
+        "w": 32
+      },
+      {
+        "h": 32,
+        "w": 32
+      }
+    ]
+  },
+  "design": {
+    "backgrounds": [
+      {
+        "count": 2,
+        "value": "#000000"
+      },
+      {
+        "count": 2,
+        "value": "#ffffff"
+      },
+      {
+        "count": 2,
+        "value": "#202020"
+      },
+      {
+        "count": 1,
+        "value": "#141414cc"
+      },
+      {
+        "count": 1,
+        "value": "#333333"
+      },
+      {
+        "count": 1,
+        "value": "#febf4e"
+      },
+      {
+        "count": 1,
+        "value": "#fecc5c"
+      },
+      {
+        "count": 1,
+        "value": "#fed96a"
+      },
+      {
+        "count": 1,
+        "value": "#7fa056"
+      },
+      {
+        "count": 1,
+        "value": "#009270"
+      },
+      {
+        "count": 1,
+        "value": "#b3e1b6"
+      },
+      {
+        "count": 1,
+        "value": "#cb8c37"
+      },
+      {
+        "count": 1,
+        "value": "#67a599"
+      },
+      {
+        "count": 1,
+        "value": "#f04028"
+      },
+      {
+        "count": 1,
+        "value": "#812b92"
+      },
+      {
+        "count": 1,
+        "value": "#34b2c9"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 14,
+        "value": "10px"
+      },
+      {
+        "count": 7,
+        "value": "12px"
+      },
+      {
+        "count": 5,
+        "value": "11px"
+      },
+      {
+        "count": 2,
+        "value": "28px"
+      },
+      {
+        "count": 1,
+        "value": "16px"
+      },
+      {
+        "count": 1,
+        "value": "14px"
+      },
+      {
+        "count": 1,
+        "value": "13px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 27,
+        "value": "400"
+      },
+      {
+        "count": 4,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 29,
+        "value": "proxima-nova, Helvetica, sans-serif"
+      },
+      {
+        "count": 2,
+        "value": "Helvetica, sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 1,
+        "value": "300px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 2,
+        "value": "5px"
+      },
+      {
+        "count": 1,
+        "value": "50%"
+      },
+      {
+        "count": 1,
+        "value": "4px"
+      },
+      {
+        "count": 1,
+        "value": "2px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 15,
+        "value": "rgba(0, 0, 0, 0.25) -1px 0px 0px 0px inset"
+      },
+      {
+        "count": 1,
+        "value": "rgb(0, 0, 0) 0px 0px 0px 2px, rgba(0, 0, 0, 0.8) 0px 0px 6px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 4,
+        "value": "8px"
+      },
+      {
+        "count": 3,
+        "value": "6px"
+      },
+      {
+        "count": 2,
+        "value": "1px"
+      },
+      {
+        "count": 2,
+        "value": "12px"
+      },
+      {
+        "count": 1,
+        "value": "2px"
+      },
+      {
+        "count": 1,
+        "value": "5px"
+      },
+      {
+        "count": 1,
+        "value": "16px"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 11,
+        "value": "#111111"
+      },
+      {
+        "count": 10,
+        "value": "#ffffff"
+      },
+      {
+        "count": 5,
+        "value": "#aaaaaa"
+      },
+      {
+        "count": 3,
+        "value": "#eeeeee"
+      },
+      {
+        "count": 1,
+        "value": "#f1ee1d"
+      },
+      {
+        "count": 1,
+        "value": "#cccccc"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [],
+  "lang": "",
+  "layouts": [
+    {
+      "blocks": [],
+      "page_h": 904,
+      "page_w": 1440,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [],
+      "page_h": 904,
+      "page_w": 900,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 900
+    },
+    {
+      "blocks": [],
+      "page_h": 2081,
+      "page_w": 900,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://dinosaurpictures.org/",
+      "text": "« Back to Dinosaur Database"
+    },
+    {
+      "href": "https://www.facebook.com/sharer/sharer.php",
+      "text": ""
+    },
+    {
+      "href": "https://twitter.com/intent/tweet",
+      "text": ""
+    },
+    {
+      "href": "mailto:",
+      "text": ""
+    },
+    {
+      "href": "http://www.scotese.com/",
+      "text": "C.R. Scotese"
+    },
+    {
+      "href": "https://www.earthbyte.org/",
+      "text": "EarthByte"
+    },
+    {
+      "href": "https://www.ianww.com/",
+      "text": "Ian Webster"
+    },
+    {
+      "href": "https://dinosaurpictures.org/ancient-earth",
+      "text": "Details »"
+    },
+    {
+      "href": "https://www.ianww.com/",
+      "text": "ianww.com"
+    },
+    {
+      "href": "mailto:ian@dinosaurpictures.org",
+      "text": "ian@dinosaurpictures.org"
+    },
+    {
+      "href": "https://ancientearth.substack.com/subscribe",
+      "text": "Click here to subscribe to occassional email updates when we add something interesting to this visua"
+    },
+    {
+      "href": "http://www.globalgeology.com/",
+      "text": "PALEOMAP Project"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.5460860",
+      "text": "PALEOMAP Paleodigital Elevation Models for the Phanerozoic"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.earscirev.2020.103463",
+      "text": "Mapping paleocoastlines and continental flooding during the Phanerozoic"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.7828387",
+      "text": "data"
+    },
+    {
+      "href": "https://www.earthbyte.org/paleomap-paleoatlas-for-gplates",
+      "text": "PALEOMAP plate model"
+    },
+    {
+      "href": "https://drive.google.com/file/d/1-q0WIa7ofISFHyBe4UxvN8DIPs82SPmS/view",
+      "text": "here"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.earscirev.2020.103477",
+      "text": "A continuous, kinematic full-plate motion model from 1 Ga to present"
+    },
+    {
+      "href": "https://www.gplates.org/",
+      "text": "GPlates"
+    }
+  ],
+  "outline": [
+    {
+      "box": {
+        "h": 14,
+        "w": 165,
+        "x": 20,
+        "y": 13
+      },
+      "color": "#f1ee1d",
+      "depth": 5,
+      "font": "12px 700",
+      "href": "https://dinosaurpictures.org/",
+      "tag": "a",
+      "text": "« Back to Dinosaur Database"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 19,
+        "w": 99,
+        "x": 719,
+        "y": 11
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "13.3333px 700",
+      "id": "years-ago",
+      "name": "",
+      "placeholder": "",
+      "tag": "select",
+      "text": "1000 million 950 million 900 million 850 million 800 million 750 million 690 million 640 million 600 million 560 million 540 million 535 million 530 million 525 million 520 million 515 million 510 mil",
+      "type": "select-one"
+    },
+    {
+      "box": {
+        "h": 31,
+        "w": 67,
+        "x": 1358,
+        "y": 10
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "display": "block",
+      "font": "12px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 20,
+        "x": 1358,
+        "y": 19
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "12px 400",
+      "href": "https://www.facebook.com/sharer/sharer.php",
+      "tag": "a"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 20,
+        "w": 20,
+        "x": 1358,
+        "y": 10
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "12px 400",
+      "src": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Facebook.png",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 20,
+        "x": 1382,
+        "y": 19
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "12px 400",
+      "href": "https://twitter.com/intent/tweet",
+      "tag": "a"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 20,
+        "w": 20,
+        "x": 1382,
+        "y": 10
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "12px 400",
+      "src": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Twitter.png",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 20,
+        "x": 1405,
+        "y": 19
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "12px 400",
+      "href": "mailto:",
+      "tag": "a"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 20,
+        "w": 20,
+        "x": 1405,
+        "y": 10
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "12px 400",
+      "src": "https://dinosaurpictures.org/ancient-earth-assets/images/flat_web_icon_set/color/Email.png",
+      "tag": "img"
+    },
+    {
+      "background": "#141414cc",
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1386,
+        "y": 50
+      },
+      "color": "#cccccc",
+      "depth": 3,
+      "font": "13.3333px 400",
+      "id": "settings-toggle",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1396,
+        "y": 60
+      },
+      "color": "#cccccc",
+      "depth": 4,
+      "font": "13.3333px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#202020",
+      "box": {
+        "h": 37,
+        "w": 259,
+        "x": 16,
+        "y": 50
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "13.3333px 400",
+      "id": "address-input-autocomplete",
+      "name": "",
+      "placeholder": "Enter a city name to view it on the globe",
+      "tag": "input",
+      "type": "text"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 71,
+        "x": 1012,
+        "y": 876
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "12px 400",
+      "href": "http://www.scotese.com/",
+      "tag": "a",
+      "text": "C.R. Scotese"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 53,
+        "x": 1097,
+        "y": 876
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "12px 400",
+      "href": "https://www.earthbyte.org/",
+      "tag": "a",
+      "text": "EarthByte"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 64,
+        "x": 1300,
+        "y": 876
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "12px 400",
+      "href": "https://www.ianww.com/",
+      "tag": "a",
+      "text": "Ian Webster"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 47,
+        "x": 1378,
+        "y": 876
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "12px 400",
+      "href": "https://dinosaurpictures.org/ancient-earth",
+      "tag": "a",
+      "text": "Details »"
+    },
+    {
+      "background": "#202020",
+      "box": {
+        "h": 31,
+        "w": 179,
+        "x": 1241,
+        "y": 773
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "13px 400",
+      "id": "jump-to",
+      "name": "",
+      "placeholder": "",
+      "tag": "select",
+      "text": "Jump to… Rodinia supercontinent first green algae Snowball Earth Pannotia supercontinent first complex animals first shells first coral reefs first vertebrates first land plants first land animals fir",
+      "type": "select-one"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 1400,
+        "x": 20,
+        "y": 824
+      },
+      "color": "#ffffff",
+      "depth": 3,
+      "font": "16px 400",
+      "role": "slider",
+      "tag": "div",
+      "text": "Tonian Cryogenian Ediacaran Cambrian O S Devonian C Permian Triassic Jurassic Cretaceous Pg N"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 13,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 363,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 447,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 573,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 629,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 657,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 755,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 811,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 853,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 874,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 993,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1063,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1077,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1105,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1245,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1321,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1364,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1385,
+        "y": 808
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13.3333px 400",
+      "tag": "button"
+    }
+  ],
+  "page": {
+    "h": 904,
+    "w": 1440
+  },
+  "text": "« Back to Dinosaur Database What did Earth look like 1000 million 950 million 900 million 850 million 800 million 750 million 690 million 640 million 600 million 560 million 540 million 535 million 530 million 525 million 520 million 515 million 510 million 505 million 500 million 495 million 490 million 485 million 480 million 475 million 470 million 465 million 460 million 455 million 450 million 445 million 440 million 435 million 430 million 425 million 420 million 415 million 410 million 405 million 400 million 395 million 390 million 385 million 380 million 375 million 370 million 365 million 360 million 355 million 350 million 345 million 340 million 335 million 330 million 325 million 320 million 315 million 310 million 305 million 300 million 295 million 290 million 285 million 280 million 275 million 270 million 265 million 260 million 255 million 250 million 245 million 240 million 235 million 230 million 225 million 220 million 215 million 210 million 205 million 200 million 195 million 190 million 185 million 180 million 175 million 170 million 165 million 160 million 155 million 150 million 145 million 140 million 135 million 130 million 125 million 120 million 115 million 110 million 105 million 100 million 95 million 90 million 85 million 80 million 75 million 70 million 66 million 60 million 55 million 50 million 45 million 40 million 35 million 30 million 25 million 20 million 15 million 10 million 5 million 0 years ago? Paleogeography from C.R. Scotese & EarthByte, visualization developed by Ian Webster · Details » Ordovician Period. Marine life undergoes the \"Great Ordovician Biodiversification Event.\" Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore. 460 million years ago Middle Ordovician Use the ← and → keys or drag the timeline to travel through time Jump to… Rodinia supercontinent first green algae Snowball Earth Pannotia supercontinent first complex animals first shells first coral reefs first vertebrates first land plants first land animals first insects first forests first reptiles Great Dying Pangea supercontinent first dinosaurs first flowers dinosaur extinction first primates first grass first hominids today Tonian Cryogenian Ediacaran Cambrian O S Devonian C Permian Triassic Jurassic Cretaceous Pg N 1 billion 540 250 66 Today",
+  "title": "Ancient Earth globe",
+  "url": "https://dinosaurpictures.org/ancient-earth#460",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

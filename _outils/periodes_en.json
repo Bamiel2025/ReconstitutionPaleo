@@ -1,0 +1,716 @@
+[
+ {
+  "mya": 0,
+  "label": "Present day",
+  "source": "paleodem",
+  "explanation": ""
+ },
+ {
+  "mya": 5,
+  "label": "Late Pliocene",
+  "source": "paleodem",
+  "explanation": "Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."
+ },
+ {
+  "mya": 10,
+  "label": "Middle/Late Miocene",
+  "source": "paleodem",
+  "explanation": "Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."
+ },
+ {
+  "mya": 15,
+  "label": "Middle Miocene",
+  "source": "paleodem",
+  "explanation": "Miocene and Pliocene.  The climate cools and dries, grasslands spread, and apes diversify in Africa and Eurasia.  Late in this interval the first hominins walk upright."
+ },
+ {
+  "mya": 20,
+  "label": "Early Miocene",
+  "source": "paleodem",
+  "explanation": "Neogene Period.  Mammals and birds continue to evolve into modern forms.  Early hominids emerge in Africa."
+ },
+ {
+  "mya": 25,
+  "label": "Late Oligocene",
+  "source": "paleodem",
+  "explanation": "Oligocene.  Antarctica becomes isolated and covered in ice sheets as the climate cools.  Grasslands expand, and many modern mammal families appear."
+ },
+ {
+  "mya": 30,
+  "label": "Early Oligocene",
+  "source": "paleodem",
+  "explanation": "Oligocene.  Antarctica becomes isolated and covered in ice sheets as the climate cools.  Grasslands expand, and many modern mammal families appear."
+ },
+ {
+  "mya": 35,
+  "label": "Late Eocene",
+  "source": "paleodem",
+  "explanation": "Mid Tertiary.  Mammals have evolved from small, simple forms to a diverse group.  Primates, cetaceans, and other groups evolve.  The Earth cools and deciduous plants become more common."
+ },
+ {
+  "mya": 40,
+  "label": "late Middle Eocene",
+  "source": "paleodem",
+  "explanation": "Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."
+ },
+ {
+  "mya": 45,
+  "label": "early Middle Eocene",
+  "source": "paleodem",
+  "explanation": "Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."
+ },
+ {
+  "mya": 50,
+  "label": "Early Eocene",
+  "source": "paleodem",
+  "explanation": "Early Tertiary.  Following the asteroid impact that killed the dinosaurs, surviving birds, mammals, and reptiles diversified.  Early whales evolved from land mammals."
+ },
+ {
+  "mya": 55,
+  "label": "Paleocene/Eocene Boundary",
+  "source": "paleodem",
+  "explanation": "Paleocene-Eocene Thermal Maximum.  A sudden release of carbon warms the planet by 5-8 °C.  Forests reach the poles, and primates, horses and other modern mammal orders appear and spread across the northern continents."
+ },
+ {
+  "mya": 60,
+  "label": "Paleocene",
+  "source": "paleodem",
+  "explanation": "Paleogene Period.  With the dinosaurs gone, mammals rapidly diversify to fill empty niches.  The world is warm, and forests stretch toward the poles."
+ },
+ {
+  "mya": 66,
+  "label": "K-Pg boundary",
+  "source": "paleodem",
+  "explanation": "Late Cretaceous.  A mass extinction occurs, leading to the extinction of dinosaurs, pterosaurs, many marine reptiles, and many marine invertebrates and other species.  Scientists believe the extinction was caused by an asteroid impact on the present-day Yucatan Peninsula in Mexico."
+ },
+ {
+  "mya": 70,
+  "label": "Late Cretaceous",
+  "source": "paleodem",
+  "explanation": "Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and the shallow inland sea that split North America in two is shrinking.  Mosasaurs rule the oceans and flowering plants are now common."
+ },
+ {
+  "mya": 75,
+  "label": "Late Cretaceous",
+  "source": "paleodem",
+  "explanation": "Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."
+ },
+ {
+  "mya": 80,
+  "label": "Late Cretaceous",
+  "source": "paleodem",
+  "explanation": "Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."
+ },
+ {
+  "mya": 85,
+  "label": "Late Cretaceous",
+  "source": "paleodem",
+  "explanation": "Late Cretaceous.  Tyrannosaurs, hadrosaurs and horned dinosaurs roam the continents, and a shallow inland sea splits North America in two.  Mosasaurs rule the oceans and flowering plants are now common."
+ },
+ {
+  "mya": 90,
+  "label": "Mid-Cretaceous",
+  "source": "paleodem",
+  "explanation": "Cretaceous Period.  Ceratopsian and pachycephalosaurid dinosaurs evolve.  Modern mammal, bird, and insect groups emerge."
+ },
+ {
+  "mya": 95,
+  "label": "Mid-Cretaceous",
+  "source": "paleodem",
+  "explanation": "Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."
+ },
+ {
+  "mya": 100,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."
+ },
+ {
+  "mya": 105,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Cretaceous Period.  Ceratopsian and pachycephalosaurid dinosaurs evolve.  Modern mammal, bird, and insect groups emerge."
+ },
+ {
+  "mya": 110,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."
+ },
+ {
+  "mya": 115,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Mid-Cretaceous.  Sea levels are very high and the climate is hot, with no polar ice.  Flowering plants spread rapidly, and giant sauropods such as Argentinosaurus live in South America."
+ },
+ {
+  "mya": 120,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  The world is warm and has no polar ice caps.  Large reptiles dominate and mammals remained small.  Flowering plants evolve and spread throughout the world."
+ },
+ {
+  "mya": 125,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."
+ },
+ {
+  "mya": 130,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."
+ },
+ {
+  "mya": 135,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."
+ },
+ {
+  "mya": 140,
+  "label": "Early Cretaceous",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."
+ },
+ {
+  "mya": 145,
+  "label": "Jurassic/Cretaceous Boundary",
+  "source": "paleodem",
+  "explanation": "Early Cretaceous.  Gondwana breaks apart as the South Atlantic begins to open.  Feathered dinosaurs and early birds live in forests of conifers, cycads and ferns, and the first flowering plants appear."
+ },
+ {
+  "mya": 150,
+  "label": "Late Jurassic",
+  "source": "paleodem",
+  "explanation": "Late Jurassic.  The earliest lizards have appeared and primitive placental mammals have evolved.  Dinosaurs dominate both landmasses.  Large marine reptiles inhabited the ocean, and pterosaurs were the dominant flying vertebrates."
+ },
+ {
+  "mya": 155,
+  "label": "Late Jurassic",
+  "source": "paleodem",
+  "explanation": "Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."
+ },
+ {
+  "mya": 160,
+  "label": "Late Jurassic",
+  "source": "paleodem",
+  "explanation": "Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."
+ },
+ {
+  "mya": 165,
+  "label": "Middle Jurassic",
+  "source": "paleodem",
+  "explanation": "Jurassic Period.  Pangea is splitting into Laurasia and Gondwana as the Atlantic Ocean begins to open.  Giant sauropods, stegosaurs and allosaurs thrive in a warm, humid world, and the first birds appear."
+ },
+ {
+  "mya": 170,
+  "label": "Middle Jurassic",
+  "source": "paleodem",
+  "explanation": "Jurassic Period.  Dinosaurs thrived as the first mammals and birds evolved.  Ocean life diversified and the Earth was very warm."
+ },
+ {
+  "mya": 175,
+  "label": "Middle Jurassic",
+  "source": "paleodem",
+  "explanation": "Middle Jurassic.  Pangea is starting to split apart, and narrow seas creep between North America, Europe and Africa.  Long-necked sauropods spread across every continent, and early relatives of Megalosaurus hunt on land."
+ },
+ {
+  "mya": 180,
+  "label": "Early Jurassic",
+  "source": "paleodem",
+  "explanation": "Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."
+ },
+ {
+  "mya": 185,
+  "label": "Early Jurassic",
+  "source": "paleodem",
+  "explanation": "Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."
+ },
+ {
+  "mya": 190,
+  "label": "Early Jurassic",
+  "source": "paleodem",
+  "explanation": "Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."
+ },
+ {
+  "mya": 195,
+  "label": "Early Jurassic",
+  "source": "paleodem",
+  "explanation": "Early Jurassic.  Dinosaurs diversify rapidly after the end-Triassic extinction removed many competitors.  Large plant-eating sauropods appear, and ichthyosaurs and plesiosaurs swim in the seas."
+ },
+ {
+  "mya": 200,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  An extinction event is about to happen, resulting in the disappearance of 76% of all terrestrial and marine life species and greatly reducing surviving populations.  Some families, such as pterosaurs, crocodiles, mammals, and fish were minimally affected.  The first true dinosaurs emerge."
+ },
+ {
+  "mya": 205,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 210,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 215,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 220,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Dinosaurs are still small and uncommon, living alongside the crocodile relatives that dominate the land.  Pterosaurs, the first flying vertebrates, take to the air, and early relatives of mammals scurry underfoot."
+ },
+ {
+  "mya": 225,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 230,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 235,
+  "label": "Late Triassic",
+  "source": "paleodem",
+  "explanation": "Late Triassic.  Pangea is at its largest and its interior is hot and dry.  Early dinosaurs, the first pterosaurs and the first true mammals appear alongside large crocodile relatives."
+ },
+ {
+  "mya": 240,
+  "label": "Middle Triassic",
+  "source": "paleodem",
+  "explanation": "Middle Triassic.  Life has largely recovered from the end-Permian extinction.  Archosaurs, the group that includes crocodiles and dinosaurs, are diversifying across Pangaea, and the close relatives of the first dinosaurs have appeared.  Ichthyosaurs and long-necked nothosaurs hunt in the seas."
+ },
+ {
+  "mya": 245,
+  "label": "Middle Triassic",
+  "source": "paleodem",
+  "explanation": "Middle Triassic.  Life is recovering from the end-Permian mass extinction.  The first modern stony corals appear and reefs begin to return, while ichthyosaurs and long-necked nothosaurs hunt in the seas."
+ },
+ {
+  "mya": 250,
+  "label": "Permo-Triassic Boundary",
+  "source": "paleodem",
+  "explanation": "Permian-Triassic boundary.  The greatest mass extinction in Earth's history, likely driven by enormous volcanic eruptions in Siberia, wipes out about 90% of marine species and most land animals."
+ },
+ {
+  "mya": 255,
+  "label": "Late Permian",
+  "source": "paleodem",
+  "explanation": "Permian Period.  The supercontinent Pangea is nearly assembled and its interior is becoming a vast desert.  Synapsids, the ancestors of mammals, are the dominant land animals, and conifers and other seed plants spread across drier landscapes."
+ },
+ {
+  "mya": 260,
+  "label": "late Middle Permian",
+  "source": "paleodem",
+  "explanation": "Late Permian.  The greatest mass extinction in history is about to take place, driving 90% of species extinct.  The extinction of plants reduced food supply for large herbivorous reptiles, and removed habitat for insects."
+ },
+ {
+  "mya": 265,
+  "label": "Middle Permian",
+  "source": "paleodem",
+  "explanation": "Permian Period.  The supercontinent Pangea is nearly assembled and its interior is becoming a vast desert.  Synapsids, the ancestors of mammals, are the dominant land animals, and conifers and other seed plants spread across drier landscapes."
+ },
+ {
+  "mya": 270,
+  "label": "Middle Permian",
+  "source": "paleodem",
+  "explanation": "Permian Period.  The supercontinent Pangea is nearly assembled and its interior is becoming a vast desert.  Synapsids, the ancestors of mammals, are the dominant land animals, and conifers and other seed plants spread across drier landscapes."
+ },
+ {
+  "mya": 275,
+  "label": "Early Permian",
+  "source": "paleodem",
+  "explanation": "Permian Period.  The supercontinent Pangea is nearly assembled and its interior is becoming a vast desert.  Synapsids, the ancestors of mammals, are the dominant land animals, and conifers and other seed plants spread across drier landscapes."
+ },
+ {
+  "mya": 280,
+  "label": "Early Permian",
+  "source": "paleodem",
+  "explanation": "Permian Period.  Landmasses merged and formed the supercontinent Pangea.  Extreme conditions such as polar ice caps and deserts limited the extent of plant life, but amphibious tetrapods and reptiles diversified where plants grew.  Oceans teemed with fish and invertebrate life."
+ },
+ {
+  "mya": 285,
+  "label": "Early Permian",
+  "source": "paleodem",
+  "explanation": "Early Permian.  Ice sheets still cover parts of southern Gondwana.  Large sail-backed synapsids such as Dimetrodon are the top predators on land."
+ },
+ {
+  "mya": 290,
+  "label": "Early Permian",
+  "source": "paleodem",
+  "explanation": "Early Permian.  Ice sheets still cover parts of southern Gondwana.  Large sail-backed synapsids such as Dimetrodon are the top predators on land."
+ },
+ {
+  "mya": 295,
+  "label": "Early Permian",
+  "source": "paleodem",
+  "explanation": "Early Permian.  Ice sheets still cover parts of southern Gondwana.  Large sail-backed synapsids such as Dimetrodon are the top predators on land."
+ },
+ {
+  "mya": 300,
+  "label": "Late Pennsylvanian",
+  "source": "paleodem",
+  "explanation": "Late Carboniferous.  Plants developed root systems that allowed them to grow larger and move inland.  Environments evolved below tree canopies.  Atmospheric oxygen increased as plants spread on land.  Early reptiles have evolved, and giant insects diversify."
+ },
+ {
+  "mya": 305,
+  "label": "Late Pennsylvanian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 310,
+  "label": "Middle Pennsylvanian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 315,
+  "label": "Early/Middle Carboniferous",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 320,
+  "label": "Early Pennsylvanian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 325,
+  "label": "Late Mississippian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 330,
+  "label": "Late Mississippian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 335,
+  "label": "Middle Mississippian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  Vast coal-swamp forests of giant club mosses and tree ferns cover the tropics, and high oxygen levels allow giant insects such as Meganeura.  Ice sheets spread across southern Gondwana.  The first reptiles appear."
+ },
+ {
+  "mya": 340,
+  "label": "Middle Mississippian",
+  "source": "paleodem",
+  "explanation": "Carboniferous Period.  A mass extinction harmed marine life, but land organisms adapted.  Plants are developing root systems that allowed them to grow larger and move inland.  Environments are evolving below tree canopies.  Atmospheric oxygen increases as plants spread on land.  Early reptiles are evolving."
+ },
+ {
+  "mya": 345,
+  "label": "Middle Mississippian",
+  "source": "paleodem",
+  "explanation": "Late Devonian to Early Carboniferous.  After a series of extinctions, four-limbed vertebrates (tetrapods) begin to spread onto land.  Forests expand and lock away carbon, cooling the climate."
+ },
+ {
+  "mya": 350,
+  "label": "Early Mississippian",
+  "source": "paleodem",
+  "explanation": "Late Devonian to Early Carboniferous.  After a series of extinctions, four-limbed vertebrates (tetrapods) begin to spread onto land.  Forests expand and lock away carbon, cooling the climate."
+ },
+ {
+  "mya": 355,
+  "label": "Early Mississippian",
+  "source": "paleodem",
+  "explanation": "Late Devonian to Early Carboniferous.  After a series of extinctions, four-limbed vertebrates (tetrapods) begin to spread onto land.  Forests expand and lock away carbon, cooling the climate."
+ },
+ {
+  "mya": 360,
+  "label": "Devono-Carboniferous Boundary",
+  "source": "paleodem",
+  "explanation": "Devonian-Carboniferous boundary.  A series of Late Devonian extinctions has devastated reefs and armored fish.  Early four-limbed vertebrates (tetrapods) such as Ichthyostega live in swampy coastal waters."
+ },
+ {
+  "mya": 365,
+  "label": "Late Devonian",
+  "source": "paleodem",
+  "explanation": "Late Devonian to Early Carboniferous.  After a series of extinctions, four-limbed vertebrates (tetrapods) begin to spread onto land.  Forests expand and lock away carbon, cooling the climate."
+ },
+ {
+  "mya": 370,
+  "label": "Late Devonian",
+  "source": "paleodem",
+  "explanation": "Late Devonian.  Life on land becomes more complex as plants develop.  Insects diversify and fish develop sturdy fins, which eventually evolve into limbs.  The first vertebrates walk on land.  Oceans and coral reefs host a diverse range of fish, sharks, sea scorpions, and cephalopods.  A mass extinction is about to take place that will stress marine life."
+ },
+ {
+  "mya": 375,
+  "label": "Late Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period, the \"Age of Fishes.\"  Armored placoderms and early sharks fill the seas, and the first forests of Archaeopteris trees spread across the land."
+ },
+ {
+  "mya": 380,
+  "label": "Late Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period, the \"Age of Fishes.\"  Armored placoderms and early sharks fill the seas, and the first forests of Archaeopteris trees spread across the land."
+ },
+ {
+  "mya": 385,
+  "label": "Middle Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period, the \"Age of Fishes.\"  Armored placoderms and early sharks fill the seas, and the first forests of Archaeopteris trees spread across the land."
+ },
+ {
+  "mya": 390,
+  "label": "Middle Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period, the \"Age of Fishes.\"  Armored placoderms and early sharks fill the seas, and the first forests of Archaeopteris trees spread across the land."
+ },
+ {
+  "mya": 395,
+  "label": "Early Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period, the \"Age of Fishes.\"  Armored placoderms and early sharks fill the seas, and the first forests of Archaeopteris trees spread across the land."
+ },
+ {
+  "mya": 400,
+  "label": "Early Devonian",
+  "source": "paleodem",
+  "explanation": "Devonian Period.  Life on land becomes more complex as plants develop.  Insects diversify and fish develop sturdy fins, which eventually evolve into limbs.  The first vertebrates walk on land.  Oceans and coral reefs host a diverse range of fish, sharks, sea scorpions, and cephalopods."
+ },
+ {
+  "mya": 405,
+  "label": "Early Devonian",
+  "source": "paleodem",
+  "explanation": "Late Silurian to Early Devonian.  Small vascular plants such as Cooksonia spread across the land, and millipedes, scorpions and early arachnids are among the first land animals.  Jawed fish diversify in the oceans."
+ },
+ {
+  "mya": 410,
+  "label": "Early Devonian",
+  "source": "paleodem",
+  "explanation": "Late Silurian to Early Devonian.  Small vascular plants such as Cooksonia spread across the land, and millipedes, scorpions and early arachnids are among the first land animals.  Jawed fish diversify in the oceans."
+ },
+ {
+  "mya": 415,
+  "label": "Early Devonian",
+  "source": "paleodem",
+  "explanation": "Late Silurian to Early Devonian.  Small vascular plants such as Cooksonia spread across the land, and millipedes, scorpions and early arachnids are among the first land animals.  Jawed fish diversify in the oceans."
+ },
+ {
+  "mya": 420,
+  "label": "Late Silurian",
+  "source": "paleodem",
+  "explanation": "Late Silurian to Early Devonian.  Small vascular plants such as Cooksonia spread across the land, and millipedes, scorpions and early arachnids are among the first land animals.  Jawed fish diversify in the oceans."
+ },
+ {
+  "mya": 425,
+  "label": "Late Silurian",
+  "source": "paleodem",
+  "explanation": "Late Silurian to Early Devonian.  Small vascular plants such as Cooksonia spread across the land, and millipedes, scorpions and early arachnids are among the first land animals.  Jawed fish diversify in the oceans."
+ },
+ {
+  "mya": 430,
+  "label": "Middle Silurian",
+  "source": "paleodem",
+  "explanation": "Silurian Period.  A mass extinction took place, wiping out nearly half of marine invertebrate species.  The first land plants emerge, starting at the edge of the ocean.  Plants evolve vascularity, the ability to transport water and nutrients through their tissues.  Ocean life becomes larger and more complex, and some creatures venture out of reefs and onto land."
+ },
+ {
+  "mya": 435,
+  "label": "Early Silurian",
+  "source": "paleodem",
+  "explanation": "Early Silurian.  Life recovers after the end-Ordovician extinction.  Reefs rebuild, jawed fish appear, and small plants spread along shorelines."
+ },
+ {
+  "mya": 440,
+  "label": "Early Silurian",
+  "source": "paleodem",
+  "explanation": "Early Silurian.  Life recovers after the end-Ordovician extinction.  Reefs rebuild, jawed fish appear, and small plants spread along shorelines."
+ },
+ {
+  "mya": 445,
+  "label": "Late Ordovician",
+  "source": "paleodem",
+  "explanation": "Late Ordovician (Hirnantian).  A short, intense ice age centered on Gondwana near the South Pole drains shallow seas and causes the first of the \"big five\" mass extinctions."
+ },
+ {
+  "mya": 450,
+  "label": "Late Ordovician",
+  "source": "paleodem",
+  "explanation": "Late Ordovician.  The seas are diverse and the first coral reefs have emerged.  Algae is the only multicellular plant, and there is still no complex life on land.  A mass extinction is about to take place."
+ },
+ {
+  "mya": 455,
+  "label": "Late Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  Marine life undergoes the \"Great Ordovician Biodiversification Event.\"  Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore."
+ },
+ {
+  "mya": 460,
+  "label": "Middle Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  Marine life undergoes the \"Great Ordovician Biodiversification Event.\"  Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore."
+ },
+ {
+  "mya": 465,
+  "label": "Middle Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  Marine life undergoes the \"Great Ordovician Biodiversification Event.\"  Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore."
+ },
+ {
+  "mya": 470,
+  "label": "Early Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  The seas are diverse and the first coral reefs emerge.  Algae is the only multicellular plant, and there is still no complex life on land."
+ },
+ {
+  "mya": 475,
+  "label": "Early Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  Marine life undergoes the \"Great Ordovician Biodiversification Event.\"  Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore."
+ },
+ {
+  "mya": 480,
+  "label": "Early Ordovician",
+  "source": "paleodem",
+  "explanation": "Ordovician Period.  Marine life undergoes the \"Great Ordovician Biodiversification Event.\"  Trilobites, brachiopods, nautiloids and early fish fill the seas, and the first simple plants begin to colonize damp ground near the shore."
+ },
+ {
+  "mya": 485,
+  "label": "Cambro-Ordovician Boundary",
+  "source": "paleodem",
+  "explanation": "Late Cambrian.  Trilobites dominate shallow seas that flood much of the continents.  The first jawless fish swim in the oceans, but the land is still barren rock."
+ },
+ {
+  "mya": 490,
+  "label": "Late Cambrian",
+  "source": "paleodem",
+  "explanation": "Late Cambrian.  Trilobites dominate shallow seas that flood much of the continents.  The first jawless fish swim in the oceans, but the land is still barren rock."
+ },
+ {
+  "mya": 495,
+  "label": "Late Cambrian",
+  "source": "paleodem",
+  "explanation": "Late Cambrian.  Trilobites dominate shallow seas that flood much of the continents.  The first jawless fish swim in the oceans, but the land is still barren rock."
+ },
+ {
+  "mya": 500,
+  "label": "late Middle Cambrian",
+  "source": "paleodem",
+  "explanation": "Late Cambrian.  The ocean is teeming with life following a dramatic expansion of animal diversity in the sea, known as the \"Cambrian explosion.\"  The forms of some animals show ancestry to modern animals.  Jawless fish, the first vertebrates, appear."
+ },
+ {
+  "mya": 505,
+  "label": "late Middle Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 510,
+  "label": "early Middle Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 515,
+  "label": "early Middle Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 520,
+  "label": "Early/Middle Cambrian boundary",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 525,
+  "label": "Early Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 530,
+  "label": "Early Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 535,
+  "label": "Early Cambrian",
+  "source": "paleodem",
+  "explanation": "Cambrian Period.  The \"Cambrian explosion\" produces most major animal groups, preserved in places like the Burgess Shale and Chengjiang.  Predators such as Anomalocaris hunt trilobites in shallow seas, while the land remains lifeless."
+ },
+ {
+  "mya": 540,
+  "label": "Cambrian/Precambrian boundary",
+  "source": "paleodem",
+  "explanation": "Early Cambrian.  A mass extinction has just taken place.  Afterwards, the fossil record shows a dramatic expansion of animal life in the sea, known as the \"Cambrian explosion.\"  Animals are beginning to evolve shells and exoskeletons."
+ },
+ {
+  "mya": 560,
+  "label": "Late Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Late Ediacaran.  Strange, soft-bodied Ediacaran organisms such as Dickinsonia and Charnia live on microbial mats on the sea floor.  They are some of the earliest large, complex animals."
+ },
+ {
+  "mya": 600,
+  "label": "Late Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Ediacaran Period.  Life is evolving in the sea, and multicellular life is just beginning to emerge. The Pannotia supercontinent is a major landmass."
+ },
+ {
+  "mya": 640,
+  "label": "Cryogenian",
+  "source": "merdith2021",
+  "explanation": "Cryogenian Period, Marinoan glaciation.  In a \"Snowball Earth\" episode, ice sheets reach the tropics and sea ice covers most of the ocean.  Life survives in pockets of open water and around volcanic hot springs."
+ },
+ {
+  "mya": 690,
+  "label": "Cryogenian",
+  "source": "merdith2021",
+  "explanation": "Cryogenian Period, Sturtian glaciation.  The longest \"Snowball Earth\" event, lasting from about 717 to 660 million years ago.  Glaciers flow all the way to the equator and most of the ocean is frozen over."
+ },
+ {
+  "mya": 750,
+  "label": "Early Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Late Tonian.  The supercontinent Rodinia is breaking apart, opening new oceans between its fragments.  Life is microbial, but red and green algae and other single-celled eukaryotes are diversifying in the seas."
+ },
+ {
+  "mya": 800,
+  "label": "Early Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Tonian Period.  Rodinia begins to rift apart.  The oceans host microbial mats, stromatolites and the first multicellular algae, while the land remains bare rock."
+ },
+ {
+  "mya": 850,
+  "label": "Early Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Tonian Period.  Rodinia begins to rift apart.  The oceans host microbial mats, stromatolites and the first multicellular algae, while the land remains bare rock."
+ },
+ {
+  "mya": 900,
+  "label": "Early Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Early Tonian.  The supercontinent Rodinia has assembled near the equator.  Oxygen in the atmosphere is still a small fraction of today's, and life consists of microbes, stromatolite reefs and simple algae."
+ },
+ {
+  "mya": 950,
+  "label": "Early Neoproterozoic",
+  "source": "merdith2021",
+  "explanation": "Early Tonian.  The supercontinent Rodinia has assembled near the equator.  Oxygen in the atmosphere is still a small fraction of today's, and life consists of microbes, stromatolite reefs and simple algae."
+ },
+ {
+  "mya": 1000,
+  "label": "Mesoproterozoic/Neoproterozoic boundary",
+  "source": "merdith2021",
+  "explanation": "End of the Mesoproterozoic.  Continents are colliding to assemble the supercontinent Rodinia, raising the Grenville mountains.  Life consists of microbes and simple algae, and the land is bare rock."
+ }
+]
